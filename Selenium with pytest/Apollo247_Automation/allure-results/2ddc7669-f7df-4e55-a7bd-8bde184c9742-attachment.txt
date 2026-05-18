@@ -1,0 +1,16 @@
+[32mINFO    [0m root:conftest.py:16 Launching Chrome Browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:26 Chrome Browser Launched Successfully
+[32mINFO    [0m root:conftest.py:30 Navigated to Apollo247 Website
+[32mINFO    [0m root:test_finddoctor.py:22 Starting Test for Find Doctor
+[32mINFO    [0m root:test_finddoctor.py:25 Open Find Doctor Module
+[32mINFO    [0m root:test_finddoctor.py:31 Scroll To Quick Book Section
+[32mINFO    [0m root:test_finddoctor.py:37 Enter Speciality: Dermatology
+[32mINFO    [0m root:test_finddoctor.py:42 Select Date: 25
+[32mINFO    [0m root:test_finddoctor.py:46 Enter Location: Jaipur
+[32mINFO    [0m root:test_finddoctor.py:50 Clicking Submit Button
+[32mINFO    [0m root:conftest.py:34 Closing Browser
+[32mINFO    [0m root:conftest.py:38 Browser Closed Successfully

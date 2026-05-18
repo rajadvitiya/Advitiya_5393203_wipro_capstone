@@ -1,0 +1,8 @@
+Available Option: geriatric neurology
+Available Option: interventional neurology
+Available Option: neurology
+Selected Speciality: neurology
+Selected Date: 30
+Entered Location: Bangalore
+Selected Location: Bangalore
+Final Location Value: Bangalore

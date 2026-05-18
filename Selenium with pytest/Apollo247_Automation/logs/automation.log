@@ -1,0 +1,344 @@
+2026-05-18 16:29:38,438 - INFO - Launching Chrome Browser
+2026-05-18 16:29:38,450 - INFO - ====== WebDriver manager ======
+2026-05-18 16:29:41,158 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:29:42,522 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:29:43,839 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:29:44,954 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:29:54,129 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:29:54,131 - INFO - Starting Homepage Load Test
+2026-05-18 16:29:54,131 - INFO - Verifying homepage loaded
+2026-05-18 16:29:54,131 - INFO - Checking for popup
+2026-05-18 16:29:59,252 - INFO - Popup not displayed
+2026-05-18 16:29:59,262 - INFO - Hidden popup removed using JavaScript
+2026-05-18 16:29:59,293 - INFO - Homepage loaded status: True
+2026-05-18 16:29:59,294 - INFO - Homepage Load Test Passed
+2026-05-18 16:29:59,294 - INFO - Test Passed: test_homepage_loaded
+2026-05-18 16:29:59,295 - INFO - Closing Browser
+2026-05-18 16:30:01,544 - INFO - Browser Closed Successfully
+2026-05-18 16:30:01,549 - INFO - Launching Chrome Browser
+2026-05-18 16:30:01,549 - INFO - ====== WebDriver manager ======
+2026-05-18 16:30:04,210 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:30:05,534 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:30:06,846 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:30:07,460 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:30:14,548 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:30:14,550 - INFO - Starting Test for Find Doctor
+2026-05-18 16:30:14,550 - INFO - Open Find Doctor Module
+2026-05-18 16:30:26,228 - INFO - Scroll To Quick Book Section
+2026-05-18 16:30:28,250 - INFO - Enter Speciality: Dermatology
+2026-05-18 16:30:35,682 - INFO - Select Date: 25
+2026-05-18 16:30:39,802 - INFO - Enter Location: Jaipur
+2026-05-18 16:30:47,061 - INFO - Clicking Submit Button
+2026-05-18 16:31:02,541 - INFO - Verify Search Result Page Opened
+2026-05-18 16:31:02,549 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 16:31:02,551 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 16:31:02,555 - INFO - Closing Browser
+2026-05-18 16:31:04,834 - INFO - Browser Closed Successfully
+2026-05-18 16:31:04,841 - INFO - Launching Chrome Browser
+2026-05-18 16:31:04,841 - INFO - ====== WebDriver manager ======
+2026-05-18 16:31:07,431 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:31:09,312 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:31:13,620 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:31:14,809 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:31:22,308 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:31:22,309 - INFO - Starting Test for Find Doctor
+2026-05-18 16:31:22,310 - INFO - Open Find Doctor Module
+2026-05-18 16:31:32,094 - INFO - Scroll To Quick Book Section
+2026-05-18 16:31:34,120 - INFO - Enter Speciality: Neurology
+2026-05-18 16:31:41,646 - INFO - Select Date: 30
+2026-05-18 16:31:45,757 - INFO - Enter Location: Bangalore
+2026-05-18 16:32:21,389 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 16:32:21,505 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 16:32:21,510 - INFO - Closing Browser
+2026-05-18 16:32:23,836 - INFO - Browser Closed Successfully
+2026-05-18 16:32:50,287 - INFO - Launching Chrome Browser
+2026-05-18 16:32:50,299 - INFO - ====== WebDriver manager ======
+2026-05-18 16:32:54,098 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:32:55,437 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:32:58,327 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:32:59,527 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:33:06,382 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:33:06,383 - INFO - Starting Homepage Load Test
+2026-05-18 16:33:06,384 - INFO - Verifying homepage loaded
+2026-05-18 16:33:06,384 - INFO - Checking for popup
+2026-05-18 16:33:11,523 - INFO - Popup not displayed
+2026-05-18 16:33:11,533 - INFO - Hidden popup removed using JavaScript
+2026-05-18 16:33:11,559 - INFO - Homepage loaded status: True
+2026-05-18 16:33:11,559 - INFO - Homepage Load Test Passed
+2026-05-18 16:33:11,559 - INFO - Test Passed: test_homepage_loaded
+2026-05-18 16:33:11,560 - INFO - Closing Browser
+2026-05-18 16:33:13,903 - INFO - Browser Closed Successfully
+2026-05-18 16:33:13,907 - INFO - Launching Chrome Browser
+2026-05-18 16:33:13,907 - INFO - ====== WebDriver manager ======
+2026-05-18 16:33:17,182 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:33:18,513 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:33:20,560 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:33:21,248 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:33:31,725 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:33:31,727 - INFO - Starting Test for Find Doctor
+2026-05-18 16:33:31,727 - INFO - Open Find Doctor Module
+2026-05-18 16:33:42,718 - INFO - Scroll To Quick Book Section
+2026-05-18 16:33:44,738 - INFO - Enter Speciality: Dermatology
+2026-05-18 16:33:52,335 - INFO - Select Date: 25
+2026-05-18 16:33:56,441 - INFO - Enter Location: Jaipur
+2026-05-18 16:34:32,063 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 16:34:32,213 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 16:34:32,218 - INFO - Closing Browser
+2026-05-18 16:37:49,349 - INFO - Launching Chrome Browser
+2026-05-18 16:37:49,361 - INFO - ====== WebDriver manager ======
+2026-05-18 16:37:52,771 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:37:54,111 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:37:55,472 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:37:56,145 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:38:06,150 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:38:06,151 - INFO - Starting Test for Find Doctor
+2026-05-18 16:38:06,151 - INFO - Open Find Doctor Module
+2026-05-18 16:38:15,989 - INFO - Scroll To Quick Book Section
+2026-05-18 16:38:18,012 - INFO - Enter Speciality: Dermatology
+2026-05-18 16:38:25,557 - INFO - Select Date: 25
+2026-05-18 16:38:29,669 - INFO - Enter Location: Jaipur
+2026-05-18 16:38:36,942 - INFO - Clicking Submit Button
+2026-05-18 16:38:53,009 - INFO - Verify Search Result Page Opened
+2026-05-18 16:38:53,015 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 16:38:53,016 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 16:38:53,019 - INFO - Closing Browser
+2026-05-18 16:38:55,700 - INFO - Browser Closed Successfully
+2026-05-18 16:38:55,706 - INFO - Launching Chrome Browser
+2026-05-18 16:38:55,706 - INFO - ====== WebDriver manager ======
+2026-05-18 16:38:59,151 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:39:00,473 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 16:39:01,863 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 16:39:03,062 - INFO - Chrome Browser Launched Successfully
+2026-05-18 16:39:10,521 - INFO - Navigated to Apollo247 Website
+2026-05-18 16:39:10,522 - INFO - Starting Test for Find Doctor
+2026-05-18 16:39:10,522 - INFO - Open Find Doctor Module
+2026-05-18 16:39:20,160 - INFO - Scroll To Quick Book Section
+2026-05-18 16:39:22,182 - INFO - Enter Speciality: Neurology
+2026-05-18 16:39:29,680 - INFO - Select Date: 30
+2026-05-18 16:39:33,793 - INFO - Enter Location: Bangalore
+2026-05-18 16:39:41,122 - INFO - Clicking Submit Button
+2026-05-18 16:39:52,397 - INFO - Verify Search Result Page Opened
+2026-05-18 16:39:52,406 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 16:39:52,406 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 16:39:52,412 - INFO - Closing Browser
+2026-05-18 16:39:55,007 - INFO - Browser Closed Successfully
+2026-05-18 17:02:04,562 - INFO - Launching Chrome Browser
+2026-05-18 17:02:04,578 - INFO - ====== WebDriver manager ======
+2026-05-18 17:02:07,980 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:02:09,965 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:02:12,013 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:02:12,671 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:02:22,555 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:02:22,557 - INFO - Starting Test for Find Doctor
+2026-05-18 17:02:22,557 - INFO - Open Find Doctor Module
+2026-05-18 17:02:32,508 - INFO - Scroll To Quick Book Section
+2026-05-18 17:02:34,540 - INFO - Enter Speciality: Dermatology
+2026-05-18 17:02:42,073 - INFO - Select Date: 25
+2026-05-18 17:02:46,174 - INFO - Enter Location: Jaipur
+2026-05-18 17:03:20,373 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 17:03:20,476 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:03:20,480 - INFO - Closing Browser
+2026-05-18 17:03:22,783 - INFO - Browser Closed Successfully
+2026-05-18 17:03:22,788 - INFO - Launching Chrome Browser
+2026-05-18 17:03:22,789 - INFO - ====== WebDriver manager ======
+2026-05-18 17:03:26,027 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:03:27,365 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:03:28,674 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:03:29,818 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:03:38,574 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:03:38,575 - INFO - Starting Test for Find Doctor
+2026-05-18 17:03:38,576 - INFO - Open Find Doctor Module
+2026-05-18 17:03:48,148 - INFO - Scroll To Quick Book Section
+2026-05-18 17:03:50,168 - INFO - Enter Speciality: Neurology
+2026-05-18 17:03:57,647 - INFO - Select Date: 30
+2026-05-18 17:04:01,745 - INFO - Enter Location: Bangalore
+2026-05-18 17:04:36,641 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:04:36,756 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:04:36,761 - INFO - Closing Browser
+2026-05-18 17:04:39,405 - INFO - Browser Closed Successfully
+2026-05-18 17:07:25,195 - INFO - Launching Chrome Browser
+2026-05-18 17:07:25,209 - INFO - ====== WebDriver manager ======
+2026-05-18 17:07:28,829 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:07:30,181 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:07:31,596 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:07:32,818 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:07:42,367 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:07:42,369 - INFO - Starting Test for Find Doctor
+2026-05-18 17:07:42,369 - INFO - Open Find Doctor Module
+2026-05-18 17:07:52,098 - INFO - Scroll To Quick Book Section
+2026-05-18 17:07:54,121 - INFO - Enter Speciality: Dermatology
+2026-05-18 17:08:01,640 - INFO - Select Date: 25
+2026-05-18 17:08:05,943 - INFO - Enter Location: Jaipur
+2026-05-18 17:08:17,208 - INFO - Clicking Submit Button
+2026-05-18 17:08:27,257 - INFO - Verify Search Result Page Opened
+2026-05-18 17:08:27,429 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 17:08:27,519 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:08:27,524 - INFO - Closing Browser
+2026-05-18 17:08:29,879 - INFO - Browser Closed Successfully
+2026-05-18 17:08:29,887 - INFO - Launching Chrome Browser
+2026-05-18 17:08:29,887 - INFO - ====== WebDriver manager ======
+2026-05-18 17:08:33,571 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:08:34,978 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:08:36,256 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:08:37,456 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:08:46,256 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:08:46,258 - INFO - Starting Test for Find Doctor
+2026-05-18 17:08:46,258 - INFO - Open Find Doctor Module
+2026-05-18 17:08:54,702 - INFO - Scroll To Quick Book Section
+2026-05-18 17:08:56,732 - INFO - Enter Speciality: Neurology
+2026-05-18 17:09:04,288 - INFO - Select Date: 30
+2026-05-18 17:09:08,399 - INFO - Enter Location: Bangalore
+2026-05-18 17:09:20,695 - INFO - Clicking Submit Button
+2026-05-18 17:09:30,742 - INFO - Verify Search Result Page Opened
+2026-05-18 17:09:30,757 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:09:30,849 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:09:30,854 - INFO - Closing Browser
+2026-05-18 17:09:33,234 - INFO - Browser Closed Successfully
+2026-05-18 17:15:16,149 - INFO - Launching Chrome Browser
+2026-05-18 17:15:16,165 - INFO - ====== WebDriver manager ======
+2026-05-18 17:15:19,799 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:15:21,130 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:15:22,529 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:15:23,220 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:15:34,234 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:15:34,237 - INFO - Starting Test for Find Doctor
+2026-05-18 17:15:34,237 - INFO - Open Find Doctor Module
+2026-05-18 17:15:43,296 - INFO - Scroll To Quick Book Section
+2026-05-18 17:15:45,328 - INFO - Enter Speciality: Dermatology
+2026-05-18 17:15:52,840 - INFO - Select Date: 25
+2026-05-18 17:15:56,959 - INFO - Enter Location: Jaipur
+2026-05-18 17:16:05,897 - INFO - Clicking Submit Button
+2026-05-18 17:16:06,095 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 17:16:06,218 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:16:06,223 - INFO - Closing Browser
+2026-05-18 17:16:08,860 - INFO - Browser Closed Successfully
+2026-05-18 17:16:08,865 - INFO - Launching Chrome Browser
+2026-05-18 17:16:08,865 - INFO - ====== WebDriver manager ======
+2026-05-18 17:16:12,418 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:16:13,775 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:16:15,119 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:16:16,322 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:16:30,067 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:16:30,069 - INFO - Starting Test for Find Doctor
+2026-05-18 17:16:30,070 - INFO - Open Find Doctor Module
+2026-05-18 17:16:39,577 - INFO - Scroll To Quick Book Section
+2026-05-18 17:16:41,598 - INFO - Enter Speciality: Neurology
+2026-05-18 17:16:49,174 - INFO - Select Date: 30
+2026-05-18 17:16:53,288 - INFO - Enter Location: Bangalore
+2026-05-18 17:17:03,572 - INFO - Clicking Submit Button
+2026-05-18 17:17:03,580 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:17:03,701 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:17:03,705 - INFO - Closing Browser
+2026-05-18 17:17:06,118 - INFO - Browser Closed Successfully
+2026-05-18 17:18:28,270 - INFO - Launching Chrome Browser
+2026-05-18 17:18:28,283 - INFO - ====== WebDriver manager ======
+2026-05-18 17:18:31,662 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:18:33,031 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:18:34,382 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:18:35,076 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:18:42,969 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:18:42,970 - INFO - Starting Test for Find Doctor
+2026-05-18 17:18:42,971 - INFO - Open Find Doctor Module
+2026-05-18 17:18:51,173 - INFO - Scroll To Quick Book Section
+2026-05-18 17:18:53,202 - INFO - Enter Speciality: Dermatology
+2026-05-18 17:19:00,663 - INFO - Select Date: 25
+2026-05-18 17:19:04,811 - INFO - Enter Location: Jaipur
+2026-05-18 17:19:39,115 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 17:19:39,227 - ERROR - Failure Screenshot Captured and Attached to Allure Report
+2026-05-18 17:19:39,234 - INFO - Closing Browser
+2026-05-18 17:19:41,798 - INFO - Browser Closed Successfully
+2026-05-18 17:19:41,804 - INFO - Launching Chrome Browser
+2026-05-18 17:19:41,804 - INFO - ====== WebDriver manager ======
+2026-05-18 17:19:45,249 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:19:46,639 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:19:48,223 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:19:49,055 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:19:58,829 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:19:58,832 - INFO - Starting Test for Find Doctor
+2026-05-18 17:19:58,832 - INFO - Open Find Doctor Module
+2026-05-18 17:20:08,190 - INFO - Scroll To Quick Book Section
+2026-05-18 17:20:10,224 - INFO - Enter Speciality: Neurology
+2026-05-18 17:20:17,751 - INFO - Select Date: 30
+2026-05-18 17:20:21,981 - INFO - Enter Location: Bangalore
+2026-05-18 17:20:32,417 - INFO - Clicking Submit Button
+2026-05-18 17:20:54,710 - INFO - Verify Search Result Page Opened
+2026-05-18 17:20:54,717 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 17:20:54,718 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:20:54,722 - INFO - Closing Browser
+2026-05-18 17:20:57,096 - INFO - Browser Closed Successfully
+2026-05-18 17:27:52,228 - INFO - Launching Chrome Browser
+2026-05-18 17:27:52,243 - INFO - ====== WebDriver manager ======
+2026-05-18 17:27:55,793 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:27:57,165 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:27:58,516 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:27:59,204 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:28:09,328 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:28:09,330 - INFO - Starting Test for Find Doctor
+2026-05-18 17:28:09,330 - INFO - Open Find Doctor Module
+2026-05-18 17:28:18,396 - INFO - Scroll To Quick Book Section
+2026-05-18 17:28:20,420 - INFO - Enter Speciality: Dermatology
+2026-05-18 17:28:27,959 - INFO - Select Date: 25
+2026-05-18 17:28:32,085 - INFO - Enter Location: Jaipur
+2026-05-18 17:28:39,242 - INFO - Clicking Submit Button
+2026-05-18 17:28:51,367 - INFO - Verify Search Result Page Opened
+2026-05-18 17:28:51,375 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 17:28:51,375 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
+2026-05-18 17:28:51,379 - INFO - Closing Browser
+2026-05-18 17:28:53,659 - INFO - Browser Closed Successfully
+2026-05-18 17:28:53,664 - INFO - Launching Chrome Browser
+2026-05-18 17:28:53,664 - INFO - ====== WebDriver manager ======
+2026-05-18 17:28:56,862 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:28:58,201 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:28:59,537 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:29:00,219 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:29:09,330 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:29:09,332 - INFO - Starting Test for Find Doctor
+2026-05-18 17:29:09,332 - INFO - Open Find Doctor Module
+2026-05-18 17:29:19,583 - INFO - Scroll To Quick Book Section
+2026-05-18 17:29:21,610 - INFO - Enter Speciality: Neurology
+2026-05-18 17:29:29,225 - INFO - Select Date: 30
+2026-05-18 17:29:33,336 - INFO - Enter Location: Bangalore
+2026-05-18 17:29:42,183 - INFO - Clicking Submit Button
+2026-05-18 17:29:56,227 - INFO - Verify Search Result Page Opened
+2026-05-18 17:29:56,235 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 17:29:56,236 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:29:56,242 - INFO - Closing Browser
+2026-05-18 17:29:58,563 - INFO - Browser Closed Successfully
+2026-05-18 17:31:46,708 - INFO - Launching Chrome Browser
+2026-05-18 17:31:46,728 - INFO - ====== WebDriver manager ======
+2026-05-18 17:31:50,460 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:31:51,791 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:31:53,049 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:31:53,759 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:32:01,155 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:32:01,158 - INFO - Starting Test for Find Doctor
+2026-05-18 17:32:01,159 - INFO - Open Find Doctor Module
+2026-05-18 17:32:10,252 - INFO - Scroll To Quick Book Section
+2026-05-18 17:32:12,276 - INFO - Enter Speciality: Cardiology
+2026-05-18 17:32:19,977 - INFO - Select Date: 24
+2026-05-18 17:32:24,094 - INFO - Enter Location: Delhi
+2026-05-18 17:32:30,999 - INFO - Clicking Submit Button
+2026-05-18 17:32:42,358 - INFO - Verify Search Result Page Opened
+2026-05-18 17:32:42,366 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 17:32:42,367 - INFO - Test Passed: test_find_doctor[Cardiology-24-Delhi]
+2026-05-18 17:32:42,371 - INFO - Closing Browser
+2026-05-18 17:32:44,709 - INFO - Browser Closed Successfully
+2026-05-18 17:32:44,715 - INFO - Launching Chrome Browser
+2026-05-18 17:32:44,715 - INFO - ====== WebDriver manager ======
+2026-05-18 17:32:48,332 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:32:49,632 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-18 17:32:50,952 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-18 17:32:51,662 - INFO - Chrome Browser Launched Successfully
+2026-05-18 17:32:59,051 - INFO - Navigated to Apollo247 Website
+2026-05-18 17:32:59,053 - INFO - Starting Test for Find Doctor
+2026-05-18 17:32:59,053 - INFO - Open Find Doctor Module
+2026-05-18 17:33:08,399 - INFO - Scroll To Quick Book Section
+2026-05-18 17:33:10,420 - INFO - Enter Speciality: Neurology
+2026-05-18 17:33:17,939 - INFO - Select Date: 30
+2026-05-18 17:33:22,055 - INFO - Enter Location: Bangalore
+2026-05-18 17:33:29,857 - INFO - Clicking Submit Button
+2026-05-18 17:33:43,968 - INFO - Verify Search Result Page Opened
+2026-05-18 17:33:43,974 - INFO - Find Doctor Page Test completed Successfully
+2026-05-18 17:33:43,975 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
+2026-05-18 17:33:43,979 - INFO - Closing Browser
+2026-05-18 17:33:46,274 - INFO - Browser Closed Successfully
