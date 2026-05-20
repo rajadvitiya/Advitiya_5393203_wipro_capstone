@@ -1,0 +1,5 @@
+[32mINFO    [0m root:test_e2e.py:43 Starting Login Test
+[32mINFO    [0m root:test_e2e.py:49 Clicking Login Button
+[32mINFO    [0m root:test_e2e.py:59 Entering Phone Number: ('9670258774',)
+[32mINFO    [0m root:test_e2e.py:69 Clicking Continue Button
+[32mINFO    [0m root:test_e2e.py:77 Waiting For Manual OTP Entry

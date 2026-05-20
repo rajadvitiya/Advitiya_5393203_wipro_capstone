@@ -4,13 +4,14 @@ from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
+from utils.screenshot_util import ScreenshotUtil
 from utils.logger import LogGen
 
 
 logger = LogGen.loggen()
 
 
-@pytest.fixture(scope="function")
+@pytest.fixture(scope="module")
 def driver():
 
     logger.info("Launching Chrome Browser")
@@ -38,26 +39,60 @@ def driver():
     logger.info("Browser Closed Successfully")
 
 
+# SINGLE HOOK ONLY
 @pytest.hookimpl(hookwrapper=True)
-def pytest_runtest_makereport(item):
+def pytest_runtest_makereport(item, call):
 
     outcome = yield
     report = outcome.get_result()
 
-    if report.when == "call" and report.failed:
+    # EXECUTE ONLY AFTER TEST EXECUTION
+    if report.when == "call":
 
-        logger.error(f"Test Failed: {item.name}")
+        driver = item.funcargs.get("driver")
 
-        driver = item.funcargs["driver"]
+        if driver:
 
-        allure.attach(
-            driver.get_screenshot_as_png(),
-            name="Failure Screenshot",
-            attachment_type=allure.attachment_type.PNG
-        )
+            test_name = item.name
 
-        logger.error("Failure Screenshot Captured and Attached to Allure Report")
+            # PASS SCREENSHOT
+            if report.passed:
 
-    elif report.when == "call" and report.passed:
+                logger.info(f"Test Passed: {test_name}")
 
-        logger.info(f"Test Passed: {item.name}")
+                screenshot_path = ScreenshotUtil.capture(
+                    driver,
+                    test_name,
+                    "PASS"
+                )
+
+                allure.attach.file(
+                    screenshot_path,
+                    name=f"{test_name}_PASS",
+                    attachment_type=allure.attachment_type.PNG
+                )
+
+                logger.info(
+                    "Pass Screenshot Captured and Attached"
+                )
+
+            # FAIL SCREENSHOT
+            elif report.failed:
+
+                logger.error(f"Test Failed: {test_name}")
+
+                screenshot_path = ScreenshotUtil.capture(
+                    driver,
+                    test_name,
+                    "FAIL"
+                )
+
+                allure.attach.file(
+                    screenshot_path,
+                    name=f"{test_name}_FAIL",
+                    attachment_type=allure.attachment_type.PNG
+                )
+
+                logger.error(
+                    "Failure Screenshot Captured and Attached"
+                )

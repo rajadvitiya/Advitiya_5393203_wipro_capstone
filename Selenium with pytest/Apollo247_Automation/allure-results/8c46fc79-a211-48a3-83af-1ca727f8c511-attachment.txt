@@ -1,8 +1,0 @@
-Available Option: ayurveda dermatology
-Available Option: dermatology
-Selected Speciality: dermatology
-Selected Date: 25
-Entered Location: Jaipur
-Suggestion Found: Jaipur, Rajasthan
-Final Location Value: Jaipur
-Selected Location: Jaipur

@@ -1,344 +1,1031 @@
-2026-05-18 16:29:38,438 - INFO - Launching Chrome Browser
-2026-05-18 16:29:38,450 - INFO - ====== WebDriver manager ======
-2026-05-18 16:29:41,158 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:29:42,522 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:29:43,839 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:29:44,954 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:29:54,129 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:29:54,131 - INFO - Starting Homepage Load Test
-2026-05-18 16:29:54,131 - INFO - Verifying homepage loaded
-2026-05-18 16:29:54,131 - INFO - Checking for popup
-2026-05-18 16:29:59,252 - INFO - Popup not displayed
-2026-05-18 16:29:59,262 - INFO - Hidden popup removed using JavaScript
-2026-05-18 16:29:59,293 - INFO - Homepage loaded status: True
-2026-05-18 16:29:59,294 - INFO - Homepage Load Test Passed
-2026-05-18 16:29:59,294 - INFO - Test Passed: test_homepage_loaded
-2026-05-18 16:29:59,295 - INFO - Closing Browser
-2026-05-18 16:30:01,544 - INFO - Browser Closed Successfully
-2026-05-18 16:30:01,549 - INFO - Launching Chrome Browser
-2026-05-18 16:30:01,549 - INFO - ====== WebDriver manager ======
-2026-05-18 16:30:04,210 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:30:05,534 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:30:06,846 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:30:07,460 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:30:14,548 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:30:14,550 - INFO - Starting Test for Find Doctor
-2026-05-18 16:30:14,550 - INFO - Open Find Doctor Module
-2026-05-18 16:30:26,228 - INFO - Scroll To Quick Book Section
-2026-05-18 16:30:28,250 - INFO - Enter Speciality: Dermatology
-2026-05-18 16:30:35,682 - INFO - Select Date: 25
-2026-05-18 16:30:39,802 - INFO - Enter Location: Jaipur
-2026-05-18 16:30:47,061 - INFO - Clicking Submit Button
-2026-05-18 16:31:02,541 - INFO - Verify Search Result Page Opened
-2026-05-18 16:31:02,549 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 16:31:02,551 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 16:31:02,555 - INFO - Closing Browser
-2026-05-18 16:31:04,834 - INFO - Browser Closed Successfully
-2026-05-18 16:31:04,841 - INFO - Launching Chrome Browser
-2026-05-18 16:31:04,841 - INFO - ====== WebDriver manager ======
-2026-05-18 16:31:07,431 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:31:09,312 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:31:13,620 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:31:14,809 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:31:22,308 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:31:22,309 - INFO - Starting Test for Find Doctor
-2026-05-18 16:31:22,310 - INFO - Open Find Doctor Module
-2026-05-18 16:31:32,094 - INFO - Scroll To Quick Book Section
-2026-05-18 16:31:34,120 - INFO - Enter Speciality: Neurology
-2026-05-18 16:31:41,646 - INFO - Select Date: 30
-2026-05-18 16:31:45,757 - INFO - Enter Location: Bangalore
-2026-05-18 16:32:21,389 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 16:32:21,505 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 16:32:21,510 - INFO - Closing Browser
-2026-05-18 16:32:23,836 - INFO - Browser Closed Successfully
-2026-05-18 16:32:50,287 - INFO - Launching Chrome Browser
-2026-05-18 16:32:50,299 - INFO - ====== WebDriver manager ======
-2026-05-18 16:32:54,098 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:32:55,437 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:32:58,327 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:32:59,527 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:33:06,382 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:33:06,383 - INFO - Starting Homepage Load Test
-2026-05-18 16:33:06,384 - INFO - Verifying homepage loaded
-2026-05-18 16:33:06,384 - INFO - Checking for popup
-2026-05-18 16:33:11,523 - INFO - Popup not displayed
-2026-05-18 16:33:11,533 - INFO - Hidden popup removed using JavaScript
-2026-05-18 16:33:11,559 - INFO - Homepage loaded status: True
-2026-05-18 16:33:11,559 - INFO - Homepage Load Test Passed
-2026-05-18 16:33:11,559 - INFO - Test Passed: test_homepage_loaded
-2026-05-18 16:33:11,560 - INFO - Closing Browser
-2026-05-18 16:33:13,903 - INFO - Browser Closed Successfully
-2026-05-18 16:33:13,907 - INFO - Launching Chrome Browser
-2026-05-18 16:33:13,907 - INFO - ====== WebDriver manager ======
-2026-05-18 16:33:17,182 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:33:18,513 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:33:20,560 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:33:21,248 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:33:31,725 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:33:31,727 - INFO - Starting Test for Find Doctor
-2026-05-18 16:33:31,727 - INFO - Open Find Doctor Module
-2026-05-18 16:33:42,718 - INFO - Scroll To Quick Book Section
-2026-05-18 16:33:44,738 - INFO - Enter Speciality: Dermatology
-2026-05-18 16:33:52,335 - INFO - Select Date: 25
-2026-05-18 16:33:56,441 - INFO - Enter Location: Jaipur
-2026-05-18 16:34:32,063 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 16:34:32,213 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 16:34:32,218 - INFO - Closing Browser
-2026-05-18 16:37:49,349 - INFO - Launching Chrome Browser
-2026-05-18 16:37:49,361 - INFO - ====== WebDriver manager ======
-2026-05-18 16:37:52,771 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:37:54,111 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:37:55,472 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:37:56,145 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:38:06,150 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:38:06,151 - INFO - Starting Test for Find Doctor
-2026-05-18 16:38:06,151 - INFO - Open Find Doctor Module
-2026-05-18 16:38:15,989 - INFO - Scroll To Quick Book Section
-2026-05-18 16:38:18,012 - INFO - Enter Speciality: Dermatology
-2026-05-18 16:38:25,557 - INFO - Select Date: 25
-2026-05-18 16:38:29,669 - INFO - Enter Location: Jaipur
-2026-05-18 16:38:36,942 - INFO - Clicking Submit Button
-2026-05-18 16:38:53,009 - INFO - Verify Search Result Page Opened
-2026-05-18 16:38:53,015 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 16:38:53,016 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 16:38:53,019 - INFO - Closing Browser
-2026-05-18 16:38:55,700 - INFO - Browser Closed Successfully
-2026-05-18 16:38:55,706 - INFO - Launching Chrome Browser
-2026-05-18 16:38:55,706 - INFO - ====== WebDriver manager ======
-2026-05-18 16:38:59,151 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:39:00,473 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 16:39:01,863 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 16:39:03,062 - INFO - Chrome Browser Launched Successfully
-2026-05-18 16:39:10,521 - INFO - Navigated to Apollo247 Website
-2026-05-18 16:39:10,522 - INFO - Starting Test for Find Doctor
-2026-05-18 16:39:10,522 - INFO - Open Find Doctor Module
-2026-05-18 16:39:20,160 - INFO - Scroll To Quick Book Section
-2026-05-18 16:39:22,182 - INFO - Enter Speciality: Neurology
-2026-05-18 16:39:29,680 - INFO - Select Date: 30
-2026-05-18 16:39:33,793 - INFO - Enter Location: Bangalore
-2026-05-18 16:39:41,122 - INFO - Clicking Submit Button
-2026-05-18 16:39:52,397 - INFO - Verify Search Result Page Opened
-2026-05-18 16:39:52,406 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 16:39:52,406 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 16:39:52,412 - INFO - Closing Browser
-2026-05-18 16:39:55,007 - INFO - Browser Closed Successfully
-2026-05-18 17:02:04,562 - INFO - Launching Chrome Browser
-2026-05-18 17:02:04,578 - INFO - ====== WebDriver manager ======
-2026-05-18 17:02:07,980 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:02:09,965 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:02:12,013 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:02:12,671 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:02:22,555 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:02:22,557 - INFO - Starting Test for Find Doctor
-2026-05-18 17:02:22,557 - INFO - Open Find Doctor Module
-2026-05-18 17:02:32,508 - INFO - Scroll To Quick Book Section
-2026-05-18 17:02:34,540 - INFO - Enter Speciality: Dermatology
-2026-05-18 17:02:42,073 - INFO - Select Date: 25
-2026-05-18 17:02:46,174 - INFO - Enter Location: Jaipur
-2026-05-18 17:03:20,373 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 17:03:20,476 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:03:20,480 - INFO - Closing Browser
-2026-05-18 17:03:22,783 - INFO - Browser Closed Successfully
-2026-05-18 17:03:22,788 - INFO - Launching Chrome Browser
-2026-05-18 17:03:22,789 - INFO - ====== WebDriver manager ======
-2026-05-18 17:03:26,027 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:03:27,365 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:03:28,674 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:03:29,818 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:03:38,574 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:03:38,575 - INFO - Starting Test for Find Doctor
-2026-05-18 17:03:38,576 - INFO - Open Find Doctor Module
-2026-05-18 17:03:48,148 - INFO - Scroll To Quick Book Section
-2026-05-18 17:03:50,168 - INFO - Enter Speciality: Neurology
-2026-05-18 17:03:57,647 - INFO - Select Date: 30
-2026-05-18 17:04:01,745 - INFO - Enter Location: Bangalore
-2026-05-18 17:04:36,641 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:04:36,756 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:04:36,761 - INFO - Closing Browser
-2026-05-18 17:04:39,405 - INFO - Browser Closed Successfully
-2026-05-18 17:07:25,195 - INFO - Launching Chrome Browser
-2026-05-18 17:07:25,209 - INFO - ====== WebDriver manager ======
-2026-05-18 17:07:28,829 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:07:30,181 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:07:31,596 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:07:32,818 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:07:42,367 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:07:42,369 - INFO - Starting Test for Find Doctor
-2026-05-18 17:07:42,369 - INFO - Open Find Doctor Module
-2026-05-18 17:07:52,098 - INFO - Scroll To Quick Book Section
-2026-05-18 17:07:54,121 - INFO - Enter Speciality: Dermatology
-2026-05-18 17:08:01,640 - INFO - Select Date: 25
-2026-05-18 17:08:05,943 - INFO - Enter Location: Jaipur
-2026-05-18 17:08:17,208 - INFO - Clicking Submit Button
-2026-05-18 17:08:27,257 - INFO - Verify Search Result Page Opened
-2026-05-18 17:08:27,429 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 17:08:27,519 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:08:27,524 - INFO - Closing Browser
-2026-05-18 17:08:29,879 - INFO - Browser Closed Successfully
-2026-05-18 17:08:29,887 - INFO - Launching Chrome Browser
-2026-05-18 17:08:29,887 - INFO - ====== WebDriver manager ======
-2026-05-18 17:08:33,571 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:08:34,978 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:08:36,256 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:08:37,456 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:08:46,256 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:08:46,258 - INFO - Starting Test for Find Doctor
-2026-05-18 17:08:46,258 - INFO - Open Find Doctor Module
-2026-05-18 17:08:54,702 - INFO - Scroll To Quick Book Section
-2026-05-18 17:08:56,732 - INFO - Enter Speciality: Neurology
-2026-05-18 17:09:04,288 - INFO - Select Date: 30
-2026-05-18 17:09:08,399 - INFO - Enter Location: Bangalore
-2026-05-18 17:09:20,695 - INFO - Clicking Submit Button
-2026-05-18 17:09:30,742 - INFO - Verify Search Result Page Opened
-2026-05-18 17:09:30,757 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:09:30,849 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:09:30,854 - INFO - Closing Browser
-2026-05-18 17:09:33,234 - INFO - Browser Closed Successfully
-2026-05-18 17:15:16,149 - INFO - Launching Chrome Browser
-2026-05-18 17:15:16,165 - INFO - ====== WebDriver manager ======
-2026-05-18 17:15:19,799 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:15:21,130 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:15:22,529 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:15:23,220 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:15:34,234 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:15:34,237 - INFO - Starting Test for Find Doctor
-2026-05-18 17:15:34,237 - INFO - Open Find Doctor Module
-2026-05-18 17:15:43,296 - INFO - Scroll To Quick Book Section
-2026-05-18 17:15:45,328 - INFO - Enter Speciality: Dermatology
-2026-05-18 17:15:52,840 - INFO - Select Date: 25
-2026-05-18 17:15:56,959 - INFO - Enter Location: Jaipur
-2026-05-18 17:16:05,897 - INFO - Clicking Submit Button
-2026-05-18 17:16:06,095 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 17:16:06,218 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:16:06,223 - INFO - Closing Browser
-2026-05-18 17:16:08,860 - INFO - Browser Closed Successfully
-2026-05-18 17:16:08,865 - INFO - Launching Chrome Browser
-2026-05-18 17:16:08,865 - INFO - ====== WebDriver manager ======
-2026-05-18 17:16:12,418 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:16:13,775 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:16:15,119 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:16:16,322 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:16:30,067 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:16:30,069 - INFO - Starting Test for Find Doctor
-2026-05-18 17:16:30,070 - INFO - Open Find Doctor Module
-2026-05-18 17:16:39,577 - INFO - Scroll To Quick Book Section
-2026-05-18 17:16:41,598 - INFO - Enter Speciality: Neurology
-2026-05-18 17:16:49,174 - INFO - Select Date: 30
-2026-05-18 17:16:53,288 - INFO - Enter Location: Bangalore
-2026-05-18 17:17:03,572 - INFO - Clicking Submit Button
-2026-05-18 17:17:03,580 - ERROR - Test Failed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:17:03,701 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:17:03,705 - INFO - Closing Browser
-2026-05-18 17:17:06,118 - INFO - Browser Closed Successfully
-2026-05-18 17:18:28,270 - INFO - Launching Chrome Browser
-2026-05-18 17:18:28,283 - INFO - ====== WebDriver manager ======
-2026-05-18 17:18:31,662 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:18:33,031 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:18:34,382 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:18:35,076 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:18:42,969 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:18:42,970 - INFO - Starting Test for Find Doctor
-2026-05-18 17:18:42,971 - INFO - Open Find Doctor Module
-2026-05-18 17:18:51,173 - INFO - Scroll To Quick Book Section
-2026-05-18 17:18:53,202 - INFO - Enter Speciality: Dermatology
-2026-05-18 17:19:00,663 - INFO - Select Date: 25
-2026-05-18 17:19:04,811 - INFO - Enter Location: Jaipur
-2026-05-18 17:19:39,115 - ERROR - Test Failed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 17:19:39,227 - ERROR - Failure Screenshot Captured and Attached to Allure Report
-2026-05-18 17:19:39,234 - INFO - Closing Browser
-2026-05-18 17:19:41,798 - INFO - Browser Closed Successfully
-2026-05-18 17:19:41,804 - INFO - Launching Chrome Browser
-2026-05-18 17:19:41,804 - INFO - ====== WebDriver manager ======
-2026-05-18 17:19:45,249 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:19:46,639 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:19:48,223 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:19:49,055 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:19:58,829 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:19:58,832 - INFO - Starting Test for Find Doctor
-2026-05-18 17:19:58,832 - INFO - Open Find Doctor Module
-2026-05-18 17:20:08,190 - INFO - Scroll To Quick Book Section
-2026-05-18 17:20:10,224 - INFO - Enter Speciality: Neurology
-2026-05-18 17:20:17,751 - INFO - Select Date: 30
-2026-05-18 17:20:21,981 - INFO - Enter Location: Bangalore
-2026-05-18 17:20:32,417 - INFO - Clicking Submit Button
-2026-05-18 17:20:54,710 - INFO - Verify Search Result Page Opened
-2026-05-18 17:20:54,717 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 17:20:54,718 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:20:54,722 - INFO - Closing Browser
-2026-05-18 17:20:57,096 - INFO - Browser Closed Successfully
-2026-05-18 17:27:52,228 - INFO - Launching Chrome Browser
-2026-05-18 17:27:52,243 - INFO - ====== WebDriver manager ======
-2026-05-18 17:27:55,793 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:27:57,165 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:27:58,516 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:27:59,204 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:28:09,328 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:28:09,330 - INFO - Starting Test for Find Doctor
-2026-05-18 17:28:09,330 - INFO - Open Find Doctor Module
-2026-05-18 17:28:18,396 - INFO - Scroll To Quick Book Section
-2026-05-18 17:28:20,420 - INFO - Enter Speciality: Dermatology
-2026-05-18 17:28:27,959 - INFO - Select Date: 25
-2026-05-18 17:28:32,085 - INFO - Enter Location: Jaipur
-2026-05-18 17:28:39,242 - INFO - Clicking Submit Button
-2026-05-18 17:28:51,367 - INFO - Verify Search Result Page Opened
-2026-05-18 17:28:51,375 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 17:28:51,375 - INFO - Test Passed: test_find_doctor[Dermatology-25-Jaipur]
-2026-05-18 17:28:51,379 - INFO - Closing Browser
-2026-05-18 17:28:53,659 - INFO - Browser Closed Successfully
-2026-05-18 17:28:53,664 - INFO - Launching Chrome Browser
-2026-05-18 17:28:53,664 - INFO - ====== WebDriver manager ======
-2026-05-18 17:28:56,862 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:28:58,201 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:28:59,537 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:29:00,219 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:29:09,330 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:29:09,332 - INFO - Starting Test for Find Doctor
-2026-05-18 17:29:09,332 - INFO - Open Find Doctor Module
-2026-05-18 17:29:19,583 - INFO - Scroll To Quick Book Section
-2026-05-18 17:29:21,610 - INFO - Enter Speciality: Neurology
-2026-05-18 17:29:29,225 - INFO - Select Date: 30
-2026-05-18 17:29:33,336 - INFO - Enter Location: Bangalore
-2026-05-18 17:29:42,183 - INFO - Clicking Submit Button
-2026-05-18 17:29:56,227 - INFO - Verify Search Result Page Opened
-2026-05-18 17:29:56,235 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 17:29:56,236 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:29:56,242 - INFO - Closing Browser
-2026-05-18 17:29:58,563 - INFO - Browser Closed Successfully
-2026-05-18 17:31:46,708 - INFO - Launching Chrome Browser
-2026-05-18 17:31:46,728 - INFO - ====== WebDriver manager ======
-2026-05-18 17:31:50,460 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:31:51,791 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:31:53,049 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:31:53,759 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:32:01,155 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:32:01,158 - INFO - Starting Test for Find Doctor
-2026-05-18 17:32:01,159 - INFO - Open Find Doctor Module
-2026-05-18 17:32:10,252 - INFO - Scroll To Quick Book Section
-2026-05-18 17:32:12,276 - INFO - Enter Speciality: Cardiology
-2026-05-18 17:32:19,977 - INFO - Select Date: 24
-2026-05-18 17:32:24,094 - INFO - Enter Location: Delhi
-2026-05-18 17:32:30,999 - INFO - Clicking Submit Button
-2026-05-18 17:32:42,358 - INFO - Verify Search Result Page Opened
-2026-05-18 17:32:42,366 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 17:32:42,367 - INFO - Test Passed: test_find_doctor[Cardiology-24-Delhi]
-2026-05-18 17:32:42,371 - INFO - Closing Browser
-2026-05-18 17:32:44,709 - INFO - Browser Closed Successfully
-2026-05-18 17:32:44,715 - INFO - Launching Chrome Browser
-2026-05-18 17:32:44,715 - INFO - ====== WebDriver manager ======
-2026-05-18 17:32:48,332 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:32:49,632 - INFO - Get LATEST chromedriver version for google-chrome
-2026-05-18 17:32:50,952 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.167\chromedriver-win32/chromedriver.exe] found in cache
-2026-05-18 17:32:51,662 - INFO - Chrome Browser Launched Successfully
-2026-05-18 17:32:59,051 - INFO - Navigated to Apollo247 Website
-2026-05-18 17:32:59,053 - INFO - Starting Test for Find Doctor
-2026-05-18 17:32:59,053 - INFO - Open Find Doctor Module
-2026-05-18 17:33:08,399 - INFO - Scroll To Quick Book Section
-2026-05-18 17:33:10,420 - INFO - Enter Speciality: Neurology
-2026-05-18 17:33:17,939 - INFO - Select Date: 30
-2026-05-18 17:33:22,055 - INFO - Enter Location: Bangalore
-2026-05-18 17:33:29,857 - INFO - Clicking Submit Button
-2026-05-18 17:33:43,968 - INFO - Verify Search Result Page Opened
-2026-05-18 17:33:43,974 - INFO - Find Doctor Page Test completed Successfully
-2026-05-18 17:33:43,975 - INFO - Test Passed: test_find_doctor[Neurology-30-Bangalore]
-2026-05-18 17:33:43,979 - INFO - Closing Browser
-2026-05-18 17:33:46,274 - INFO - Browser Closed Successfully
+2026-05-20 09:34:36,790 - INFO - Launching Chrome Browser
+2026-05-20 09:34:36,805 - INFO - ====== WebDriver manager ======
+2026-05-20 09:34:37,890 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:34:39,232 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:34:40,531 - INFO - There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-20 09:34:40,531 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:34:43,817 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-20 09:34:43,825 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win32/chromedriver-win32.zip
+2026-05-20 09:34:43,827 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win32/chromedriver-win32.zip
+2026-05-20 09:34:44,300 - INFO - Driver downloading response is 200
+2026-05-20 09:34:46,573 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:34:47,937 - INFO - Driver has been saved in cache [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-20 09:34:49,868 - INFO - Chrome Browser Launched Successfully
+2026-05-20 09:34:57,196 - INFO - Navigated to Apollo247 Website
+2026-05-20 09:34:57,197 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:34:57,197 - INFO - TestType: POSITIVE
+2026-05-20 09:34:57,197 - INFO - Speciality: Cardiology
+2026-05-20 09:34:57,197 - INFO - Date: 25
+2026-05-20 09:34:57,197 - INFO - Location: Chennai
+2026-05-20 09:34:57,197 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:35:06,015 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:35:08,043 - INFO - Entering Speciality: Cardiology
+2026-05-20 09:35:15,460 - INFO - Selecting Date: 25
+2026-05-20 09:35:19,576 - INFO - Entering Location: Chennai
+2026-05-20 09:35:26,414 - INFO - Clicking Submit Button
+2026-05-20 09:35:39,047 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 09:35:39,048 - INFO - Executing POSITIVE validation
+2026-05-20 09:35:39,048 - INFO - POSITIVE TEST PASSED
+2026-05-20 09:35:39,048 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:35:39,048 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 09:35:39,149 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:35:39,170 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:35:39,170 - INFO - TestType: POSITIVE
+2026-05-20 09:35:39,170 - INFO - Speciality: Neurology
+2026-05-20 09:35:39,171 - INFO - Date: 30
+2026-05-20 09:35:39,171 - INFO - Location: Bangalore
+2026-05-20 09:35:39,171 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:35:45,477 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:35:47,499 - INFO - Entering Speciality: Neurology
+2026-05-20 09:35:55,059 - INFO - Selecting Date: 30
+2026-05-20 09:35:59,166 - INFO - Entering Location: Bangalore
+2026-05-20 09:36:05,097 - INFO - Clicking Submit Button
+2026-05-20 09:36:17,358 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 09:36:17,358 - INFO - Executing POSITIVE validation
+2026-05-20 09:36:17,358 - INFO - POSITIVE TEST PASSED
+2026-05-20 09:36:17,358 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:36:17,359 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 09:36:17,435 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:36:17,445 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:36:17,445 - INFO - TestType: POSITIVE
+2026-05-20 09:36:17,445 - INFO - Speciality: Dermatology
+2026-05-20 09:36:17,445 - INFO - Date: 20
+2026-05-20 09:36:17,445 - INFO - Location: Jaipur
+2026-05-20 09:36:17,445 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:36:23,427 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:36:25,452 - INFO - Entering Speciality: Dermatology
+2026-05-20 09:36:32,883 - INFO - Selecting Date: 20
+2026-05-20 09:36:36,987 - INFO - Entering Location: Jaipur
+2026-05-20 09:36:41,126 - INFO - Clicking Submit Button
+2026-05-20 09:36:53,180 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 09:36:53,180 - INFO - Executing POSITIVE validation
+2026-05-20 09:36:53,180 - INFO - POSITIVE TEST PASSED
+2026-05-20 09:36:53,180 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:36:53,180 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 09:36:53,263 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:36:53,272 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:36:53,273 - INFO - TestType: POSITIVE
+2026-05-20 09:36:53,273 - INFO - Speciality: ENT
+2026-05-20 09:36:53,273 - INFO - Date: 22
+2026-05-20 09:36:53,273 - INFO - Location: Delhi
+2026-05-20 09:36:53,273 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:36:59,312 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:37:01,340 - INFO - Entering Speciality: ENT
+2026-05-20 09:37:08,700 - INFO - Selecting Date: 22
+2026-05-20 09:37:12,792 - INFO - Entering Location: Delhi
+2026-05-20 09:37:16,649 - INFO - Clicking Submit Button
+2026-05-20 09:37:28,951 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 09:37:28,951 - INFO - Executing POSITIVE validation
+2026-05-20 09:37:28,951 - INFO - POSITIVE TEST PASSED
+2026-05-20 09:37:28,951 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:37:28,952 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 09:37:29,050 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:37:29,059 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:37:29,059 - INFO - TestType: NEGATIVE
+2026-05-20 09:37:29,059 - INFO - Speciality: FakeSpec
+2026-05-20 09:37:29,059 - INFO - Date: 99
+2026-05-20 09:37:29,059 - INFO - Location: Nowhere
+2026-05-20 09:37:29,059 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:37:35,009 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:37:37,031 - INFO - Entering Speciality: FakeSpec
+2026-05-20 09:37:42,344 - INFO - Selecting Date: 99
+2026-05-20 09:38:16,655 - INFO - Entering Location: Nowhere
+2026-05-20 09:38:50,674 - INFO - Clicking Submit Button
+2026-05-20 09:39:01,741 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 09:39:01,741 - INFO - Executing NEGATIVE validation
+2026-05-20 09:39:01,741 - INFO - NEGATIVE TEST PASSED
+2026-05-20 09:39:01,741 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:39:01,742 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 09:39:01,882 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:39:01,892 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 09:39:01,892 - INFO - TestType: NEGATIVE
+2026-05-20 09:39:01,892 - INFO - Speciality: Cardiology
+2026-05-20 09:39:01,892 - INFO - Date: 1
+2026-05-20 09:39:01,892 - INFO - Location: InvalidCity
+2026-05-20 09:39:01,892 - INFO - Clicking Find Doctor Menu
+2026-05-20 09:39:08,072 - INFO - Scrolling to QuickBook Section
+2026-05-20 09:39:10,096 - INFO - Entering Speciality: Cardiology
+2026-05-20 09:39:17,440 - INFO - Selecting Date: 1
+2026-05-20 09:39:51,732 - INFO - Entering Location: InvalidCity
+2026-05-20 09:40:26,719 - INFO - Clicking Submit Button
+2026-05-20 09:40:37,788 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 09:40:37,788 - INFO - Executing NEGATIVE validation
+2026-05-20 09:40:37,788 - INFO - NEGATIVE TEST PASSED
+2026-05-20 09:40:37,788 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 09:40:37,789 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 09:40:37,931 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:40:37,936 - INFO - Closing Browser
+2026-05-20 09:40:40,249 - INFO - Browser Closed Successfully
+2026-05-20 09:44:41,024 - INFO - Launching Chrome Browser
+2026-05-20 09:44:41,038 - INFO - ====== WebDriver manager ======
+2026-05-20 09:45:07,968 - INFO - Launching Chrome Browser
+2026-05-20 09:45:07,982 - INFO - ====== WebDriver manager ======
+2026-05-20 09:45:09,034 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:45:10,380 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 09:45:11,666 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 09:45:12,282 - INFO - Chrome Browser Launched Successfully
+2026-05-20 09:45:15,584 - INFO - Navigated to Apollo247 Website
+2026-05-20 09:45:15,585 - INFO - Starting FULL E2E Test
+2026-05-20 09:45:15,585 - INFO - Starting Homepage Load Test
+2026-05-20 09:45:15,585 - INFO - Verifying homepage loaded
+2026-05-20 09:45:15,585 - INFO - Checking for popup
+2026-05-20 09:45:20,895 - INFO - Popup not displayed
+2026-05-20 09:45:20,904 - INFO - Hidden popup removed using JavaScript
+2026-05-20 09:45:20,935 - INFO - Homepage loaded status: True
+2026-05-20 09:45:20,935 - INFO - Homepage Load Test Passed
+2026-05-20 09:45:20,935 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 09:45:21,189 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:45:21,194 - INFO - Starting Login Test
+2026-05-20 09:45:21,194 - INFO - Clicking Login Button
+2026-05-20 09:45:23,270 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 09:45:25,408 - INFO - Clicking Continue Button
+2026-05-20 09:45:25,477 - INFO - Waiting For Manual OTP Entry
+2026-05-20 09:46:01,636 - INFO - Verifying Login Success
+2026-05-20 09:46:01,643 - INFO - Login Test Passed Successfully
+2026-05-20 09:46:01,644 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 09:46:01,817 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:46:09,432 - INFO - Navigation successful
+2026-05-20 09:46:11,480 - INFO - Quick book visible
+2026-05-20 09:46:18,927 - INFO - Speciality entered
+2026-05-20 09:46:23,034 - INFO - Date selected
+2026-05-20 09:46:27,893 - INFO - Location entered
+2026-05-20 09:46:40,230 - INFO - Search completed
+2026-05-20 09:46:58,770 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 09:46:58,770 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 09:46:58,854 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:47:04,972 - INFO - Navigation successful
+2026-05-20 09:47:07,015 - INFO - Quick book visible
+2026-05-20 09:47:14,433 - INFO - Speciality entered
+2026-05-20 09:47:18,529 - INFO - Date selected
+2026-05-20 09:47:22,920 - INFO - Location entered
+2026-05-20 09:47:35,683 - INFO - Search completed
+2026-05-20 09:47:54,097 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 09:47:54,098 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 09:47:54,189 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 09:47:54,196 - INFO - Closing Browser
+2026-05-20 09:47:56,532 - INFO - Browser Closed Successfully
+2026-05-20 11:48:58,158 - INFO - Launching Chrome Browser
+2026-05-20 11:48:58,173 - INFO - ====== WebDriver manager ======
+2026-05-20 11:48:59,843 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 11:49:01,241 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 11:49:02,553 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 11:49:04,373 - INFO - Chrome Browser Launched Successfully
+2026-05-20 11:49:08,100 - INFO - Navigated to Apollo247 Website
+2026-05-20 11:49:08,102 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:49:08,103 - INFO - TestType: POSITIVE
+2026-05-20 11:49:08,103 - INFO - Speciality: Cardiology
+2026-05-20 11:49:08,103 - INFO - Date: 25
+2026-05-20 11:49:08,103 - INFO - Location: Chennai
+2026-05-20 11:49:08,103 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:49:18,391 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:49:20,412 - INFO - Entering Speciality: Cardiology
+2026-05-20 11:49:27,991 - INFO - Selecting Date: 25
+2026-05-20 11:49:32,097 - INFO - Entering Location: Chennai
+2026-05-20 11:49:36,491 - INFO - Clicking Submit Button
+2026-05-20 11:49:49,412 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 11:49:49,412 - INFO - Executing POSITIVE validation
+2026-05-20 11:49:49,413 - INFO - POSITIVE TEST PASSED
+2026-05-20 11:49:49,413 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:49:49,413 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 11:49:49,486 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:49:49,495 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:49:49,495 - INFO - TestType: POSITIVE
+2026-05-20 11:49:49,495 - INFO - Speciality: Neurology
+2026-05-20 11:49:49,495 - INFO - Date: 30
+2026-05-20 11:49:49,495 - INFO - Location: Bangalore
+2026-05-20 11:49:49,495 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:49:55,735 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:49:57,755 - INFO - Entering Speciality: Neurology
+2026-05-20 11:50:05,212 - INFO - Selecting Date: 30
+2026-05-20 11:50:09,309 - INFO - Entering Location: Bangalore
+2026-05-20 11:50:14,647 - INFO - Clicking Submit Button
+2026-05-20 11:50:26,958 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 11:50:26,959 - INFO - Executing POSITIVE validation
+2026-05-20 11:50:26,959 - INFO - POSITIVE TEST PASSED
+2026-05-20 11:50:26,959 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:50:26,960 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 11:50:27,042 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:50:27,050 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:50:27,050 - INFO - TestType: POSITIVE
+2026-05-20 11:50:27,050 - INFO - Speciality: Dermatology
+2026-05-20 11:50:27,051 - INFO - Date: 20
+2026-05-20 11:50:27,051 - INFO - Location: Jaipur
+2026-05-20 11:50:27,051 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:50:33,133 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:50:35,151 - INFO - Entering Speciality: Dermatology
+2026-05-20 11:50:42,573 - INFO - Selecting Date: 20
+2026-05-20 11:50:46,674 - INFO - Entering Location: Jaipur
+2026-05-20 11:50:50,784 - INFO - Clicking Submit Button
+2026-05-20 11:51:03,328 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 11:51:03,328 - INFO - Executing POSITIVE validation
+2026-05-20 11:51:03,328 - INFO - POSITIVE TEST PASSED
+2026-05-20 11:51:03,328 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:51:03,328 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 11:51:03,435 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:51:03,446 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:51:03,446 - INFO - TestType: POSITIVE
+2026-05-20 11:51:03,446 - INFO - Speciality: ENT
+2026-05-20 11:51:03,446 - INFO - Date: 22
+2026-05-20 11:51:03,446 - INFO - Location: Delhi
+2026-05-20 11:51:03,446 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:51:09,551 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:51:11,571 - INFO - Entering Speciality: ENT
+2026-05-20 11:51:18,940 - INFO - Selecting Date: 22
+2026-05-20 11:51:23,036 - INFO - Entering Location: Delhi
+2026-05-20 11:51:27,418 - INFO - Clicking Submit Button
+2026-05-20 11:51:39,901 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 11:51:39,901 - INFO - Executing POSITIVE validation
+2026-05-20 11:51:39,901 - INFO - POSITIVE TEST PASSED
+2026-05-20 11:51:39,901 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:51:39,902 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 11:51:39,979 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:51:39,987 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:51:39,987 - INFO - TestType: NEGATIVE
+2026-05-20 11:51:39,987 - INFO - Speciality: FakeSpec
+2026-05-20 11:51:39,987 - INFO - Date: 99
+2026-05-20 11:51:39,988 - INFO - Location: Nowhere
+2026-05-20 11:51:39,988 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:51:46,173 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:51:48,193 - INFO - Entering Speciality: FakeSpec
+2026-05-20 11:51:53,510 - INFO - Selecting Date: 99
+2026-05-20 11:52:27,788 - INFO - Entering Location: Nowhere
+2026-05-20 11:53:01,760 - INFO - Clicking Submit Button
+2026-05-20 11:53:12,817 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 11:53:12,817 - INFO - Executing NEGATIVE validation
+2026-05-20 11:53:12,817 - INFO - NEGATIVE TEST PASSED
+2026-05-20 11:53:12,817 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:53:12,818 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 11:53:12,969 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:53:12,979 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 11:53:12,979 - INFO - TestType: NEGATIVE
+2026-05-20 11:53:12,979 - INFO - Speciality: Cardiology
+2026-05-20 11:53:12,979 - INFO - Date: 1
+2026-05-20 11:53:12,979 - INFO - Location: InvalidCity
+2026-05-20 11:53:12,979 - INFO - Clicking Find Doctor Menu
+2026-05-20 11:53:19,284 - INFO - Scrolling to QuickBook Section
+2026-05-20 11:53:21,305 - INFO - Entering Speciality: Cardiology
+2026-05-20 11:53:28,672 - INFO - Selecting Date: 1
+2026-05-20 11:54:02,935 - INFO - Entering Location: InvalidCity
+2026-05-20 11:54:37,877 - INFO - Clicking Submit Button
+2026-05-20 11:54:48,945 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 11:54:48,945 - INFO - Executing NEGATIVE validation
+2026-05-20 11:54:48,945 - INFO - NEGATIVE TEST PASSED
+2026-05-20 11:54:48,945 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 11:54:48,945 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 11:54:49,123 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:54:49,131 - INFO - Closing Browser
+2026-05-20 11:54:51,745 - INFO - Browser Closed Successfully
+2026-05-20 11:56:22,679 - INFO - Launching Chrome Browser
+2026-05-20 11:56:22,694 - INFO - ====== WebDriver manager ======
+2026-05-20 11:56:23,950 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 11:56:25,281 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 11:56:27,517 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 11:56:28,690 - INFO - Chrome Browser Launched Successfully
+2026-05-20 11:56:36,044 - INFO - Navigated to Apollo247 Website
+2026-05-20 11:56:36,046 - INFO - Starting FULL E2E Test
+2026-05-20 11:56:36,046 - INFO - Starting Homepage Load Test
+2026-05-20 11:56:36,046 - INFO - Verifying homepage loaded
+2026-05-20 11:56:36,046 - INFO - Checking for popup
+2026-05-20 11:56:41,200 - INFO - Popup not displayed
+2026-05-20 11:56:41,215 - INFO - Hidden popup removed using JavaScript
+2026-05-20 11:56:41,275 - INFO - Homepage loaded status: True
+2026-05-20 11:56:41,276 - INFO - Homepage Load Test Passed
+2026-05-20 11:56:41,276 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 11:56:41,514 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:56:41,520 - INFO - Starting Login Test
+2026-05-20 11:56:41,520 - INFO - Clicking Login Button
+2026-05-20 11:56:43,598 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 11:56:45,769 - INFO - Clicking Continue Button
+2026-05-20 11:56:45,856 - INFO - Waiting For Manual OTP Entry
+2026-05-20 11:57:27,811 - INFO - Verifying Login Success
+2026-05-20 11:57:27,817 - INFO - Login Test Passed Successfully
+2026-05-20 11:57:27,818 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 11:57:27,986 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:57:36,562 - INFO - Navigation successful
+2026-05-20 11:57:38,603 - INFO - Quick book visible
+2026-05-20 11:57:45,999 - INFO - Speciality entered
+2026-05-20 11:57:50,101 - INFO - Date selected
+2026-05-20 11:57:54,446 - INFO - Location entered
+2026-05-20 11:58:08,125 - INFO - Search completed
+2026-05-20 11:58:26,716 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 11:58:26,716 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 11:58:26,788 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:58:32,544 - INFO - Navigation successful
+2026-05-20 11:58:34,585 - INFO - Quick book visible
+2026-05-20 11:58:42,032 - INFO - Speciality entered
+2026-05-20 11:58:46,129 - INFO - Date selected
+2026-05-20 11:58:50,524 - INFO - Location entered
+2026-05-20 11:59:02,684 - INFO - Search completed
+2026-05-20 11:59:21,162 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 11:59:21,162 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 11:59:21,253 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 11:59:21,260 - INFO - Closing Browser
+2026-05-20 11:59:23,576 - INFO - Browser Closed Successfully
+2026-05-20 12:41:27,431 - INFO - Launching Chrome Browser
+2026-05-20 12:41:27,446 - INFO - ====== WebDriver manager ======
+2026-05-20 12:41:28,704 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:41:30,757 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:41:34,303 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:41:35,492 - INFO - Chrome Browser Launched Successfully
+2026-05-20 12:41:43,205 - INFO - Navigated to Apollo247 Website
+2026-05-20 12:41:43,206 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:41:43,207 - INFO - TestType: POSITIVE
+2026-05-20 12:41:43,207 - INFO - Speciality: Cardiology
+2026-05-20 12:41:43,207 - INFO - Date: 25
+2026-05-20 12:41:43,207 - INFO - Location: Chennai
+2026-05-20 12:41:43,207 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:41:50,547 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:41:52,568 - INFO - Entering Speciality: Cardiology
+2026-05-20 12:42:00,091 - INFO - Selecting Date: 25
+2026-05-20 12:42:04,206 - INFO - Entering Location: Chennai
+2026-05-20 12:42:11,539 - INFO - Clicking Submit Button
+2026-05-20 12:42:24,688 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 12:42:24,688 - INFO - Executing POSITIVE validation
+2026-05-20 12:42:24,688 - INFO - POSITIVE TEST PASSED
+2026-05-20 12:42:24,688 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:42:24,689 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 12:42:24,818 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:42:24,836 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:42:24,836 - INFO - TestType: POSITIVE
+2026-05-20 12:42:24,837 - INFO - Speciality: Neurology
+2026-05-20 12:42:24,837 - INFO - Date: 30
+2026-05-20 12:42:24,837 - INFO - Location: Bangalore
+2026-05-20 12:42:24,837 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:42:31,310 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:42:33,329 - INFO - Entering Speciality: Neurology
+2026-05-20 12:42:40,786 - INFO - Selecting Date: 30
+2026-05-20 12:42:44,926 - INFO - Entering Location: Bangalore
+2026-05-20 12:42:51,759 - INFO - Clicking Submit Button
+2026-05-20 12:43:03,768 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 12:43:03,768 - INFO - Executing POSITIVE validation
+2026-05-20 12:43:03,768 - INFO - POSITIVE TEST PASSED
+2026-05-20 12:43:03,768 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:43:03,769 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 12:43:03,837 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:43:03,848 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:43:03,848 - INFO - TestType: POSITIVE
+2026-05-20 12:43:03,848 - INFO - Speciality: Dermatology
+2026-05-20 12:43:03,848 - INFO - Date: 20
+2026-05-20 12:43:03,848 - INFO - Location: Jaipur
+2026-05-20 12:43:03,848 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:43:09,899 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:43:11,923 - INFO - Entering Speciality: Dermatology
+2026-05-20 12:43:19,384 - INFO - Selecting Date: 20
+2026-05-20 12:43:23,475 - INFO - Entering Location: Jaipur
+2026-05-20 12:43:29,592 - INFO - Clicking Submit Button
+2026-05-20 12:43:41,560 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 12:43:41,560 - INFO - Executing POSITIVE validation
+2026-05-20 12:43:41,560 - INFO - POSITIVE TEST PASSED
+2026-05-20 12:43:41,560 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:43:41,560 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 12:43:41,655 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:43:41,666 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:43:41,666 - INFO - TestType: POSITIVE
+2026-05-20 12:43:41,666 - INFO - Speciality: ENT
+2026-05-20 12:43:41,667 - INFO - Date: 22
+2026-05-20 12:43:41,667 - INFO - Location: Delhi
+2026-05-20 12:43:41,667 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:43:48,862 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:43:50,889 - INFO - Entering Speciality: ENT
+2026-05-20 12:43:58,429 - INFO - Selecting Date: 22
+2026-05-20 12:44:02,532 - INFO - Entering Location: Delhi
+2026-05-20 12:44:08,408 - INFO - Clicking Submit Button
+2026-05-20 12:44:20,881 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 12:44:20,882 - INFO - Executing POSITIVE validation
+2026-05-20 12:44:20,882 - INFO - POSITIVE TEST PASSED
+2026-05-20 12:44:20,882 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:44:20,882 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 12:44:20,951 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:44:20,963 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:44:20,963 - INFO - TestType: NEGATIVE
+2026-05-20 12:44:20,963 - INFO - Speciality: FakeSpec
+2026-05-20 12:44:20,963 - INFO - Date: 99
+2026-05-20 12:44:20,963 - INFO - Location: Nowhere
+2026-05-20 12:44:20,963 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:44:26,954 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:44:28,973 - INFO - Entering Speciality: FakeSpec
+2026-05-20 12:44:34,299 - INFO - Selecting Date: 99
+2026-05-20 12:45:08,566 - INFO - Entering Location: Nowhere
+2026-05-20 12:45:42,549 - INFO - Clicking Submit Button
+2026-05-20 12:45:53,611 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 12:45:53,611 - INFO - Executing NEGATIVE validation
+2026-05-20 12:45:53,611 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:45:53,611 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 12:45:53,749 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:45:53,759 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 12:45:53,759 - INFO - TestType: NEGATIVE
+2026-05-20 12:45:53,759 - INFO - Speciality: Cardiology
+2026-05-20 12:45:53,759 - INFO - Date: 1
+2026-05-20 12:45:53,759 - INFO - Location: InvalidCity
+2026-05-20 12:45:53,759 - INFO - Clicking Find Doctor Menu
+2026-05-20 12:45:59,950 - INFO - Scrolling to QuickBook Section
+2026-05-20 12:46:01,972 - INFO - Entering Speciality: Cardiology
+2026-05-20 12:46:09,389 - INFO - Selecting Date: 1
+2026-05-20 12:46:43,628 - INFO - Entering Location: InvalidCity
+2026-05-20 12:47:18,535 - INFO - Clicking Submit Button
+2026-05-20 12:47:29,590 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 12:47:29,590 - INFO - Executing NEGATIVE validation
+2026-05-20 12:47:29,590 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 12:47:29,591 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 12:47:29,733 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:47:29,738 - INFO - Closing Browser
+2026-05-20 12:47:32,128 - INFO - Browser Closed Successfully
+2026-05-20 12:48:17,056 - INFO - Launching Chrome Browser
+2026-05-20 12:48:17,071 - INFO - ====== WebDriver manager ======
+2026-05-20 12:48:18,273 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:48:19,763 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 12:48:21,835 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 12:48:23,039 - INFO - Chrome Browser Launched Successfully
+2026-05-20 12:48:32,310 - INFO - Navigated to Apollo247 Website
+2026-05-20 12:48:32,311 - INFO - Starting FULL E2E Test
+2026-05-20 12:48:32,312 - INFO - Starting Homepage Load Test
+2026-05-20 12:48:32,312 - INFO - Verifying homepage loaded
+2026-05-20 12:48:32,312 - INFO - Checking for popup
+2026-05-20 12:48:37,447 - INFO - Popup not displayed
+2026-05-20 12:48:37,455 - INFO - Hidden popup removed using JavaScript
+2026-05-20 12:48:37,483 - INFO - Homepage loaded status: True
+2026-05-20 12:48:37,483 - INFO - Homepage Load Test Passed
+2026-05-20 12:48:37,484 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 12:48:37,691 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:48:37,697 - INFO - Starting Login Test
+2026-05-20 12:48:37,697 - INFO - Clicking Login Button
+2026-05-20 12:48:39,783 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 12:48:41,938 - INFO - Clicking Continue Button
+2026-05-20 12:48:42,019 - INFO - Waiting For Manual OTP Entry
+2026-05-20 12:49:33,393 - INFO - Verifying Login Success
+2026-05-20 12:49:33,401 - INFO - Login Test Passed Successfully
+2026-05-20 12:49:33,401 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 12:49:33,492 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:49:42,138 - INFO - Navigation successful
+2026-05-20 12:49:44,181 - INFO - Quick book visible
+2026-05-20 12:49:51,573 - INFO - Speciality entered
+2026-05-20 12:49:55,673 - INFO - Date selected
+2026-05-20 12:50:02,560 - INFO - Location entered
+2026-05-20 12:50:15,221 - INFO - Search completed
+2026-05-20 12:50:33,817 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 12:50:33,818 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 12:50:33,900 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:50:39,846 - INFO - Navigation successful
+2026-05-20 12:50:41,887 - INFO - Quick book visible
+2026-05-20 12:50:49,370 - INFO - Speciality entered
+2026-05-20 12:50:53,467 - INFO - Date selected
+2026-05-20 12:50:59,359 - INFO - Location entered
+2026-05-20 12:51:11,611 - INFO - Search completed
+2026-05-20 12:51:30,101 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 12:51:30,101 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 12:51:30,181 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 12:51:30,189 - INFO - Closing Browser
+2026-05-20 12:51:32,688 - INFO - Browser Closed Successfully
+2026-05-20 14:48:29,013 - INFO - Launching Chrome Browser
+2026-05-20 14:48:29,027 - INFO - ====== WebDriver manager ======
+2026-05-20 14:48:30,145 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 14:48:30,780 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 14:48:31,624 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 14:48:32,739 - INFO - Chrome Browser Launched Successfully
+2026-05-20 14:48:40,435 - INFO - Navigated to Apollo247 Website
+2026-05-20 14:48:40,436 - INFO - Starting FULL E2E Test
+2026-05-20 14:48:40,437 - INFO - Starting Homepage Load Test
+2026-05-20 14:48:40,437 - INFO - Verifying homepage loaded
+2026-05-20 14:48:40,437 - INFO - Checking for popup
+2026-05-20 14:48:45,555 - INFO - Popup not displayed
+2026-05-20 14:48:45,562 - INFO - Hidden popup removed using JavaScript
+2026-05-20 14:48:45,590 - INFO - Homepage loaded status: True
+2026-05-20 14:48:45,590 - INFO - Homepage Load Test Passed
+2026-05-20 14:48:45,591 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 14:48:45,749 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 14:48:45,754 - INFO - Starting Login Test
+2026-05-20 14:48:45,754 - INFO - Clicking Login Button
+2026-05-20 14:48:47,827 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 14:48:50,058 - INFO - Clicking Continue Button
+2026-05-20 14:48:50,131 - INFO - Waiting For Manual OTP Entry
+2026-05-20 14:49:26,281 - INFO - Verifying Login Success
+2026-05-20 14:49:26,288 - INFO - Login Test Passed Successfully
+2026-05-20 14:49:26,288 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 14:49:26,438 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 14:49:33,231 - INFO - Navigation successful
+2026-05-20 14:49:35,280 - INFO - Quick book visible
+2026-05-20 14:49:42,656 - INFO - Speciality entered
+2026-05-20 14:49:46,758 - INFO - Date selected
+2026-05-20 14:49:53,587 - INFO - Location entered
+2026-05-20 14:50:06,369 - INFO - Search completed
+2026-05-20 14:50:24,914 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 14:50:24,914 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 14:50:24,986 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 14:50:31,199 - INFO - Navigation successful
+2026-05-20 14:50:33,245 - INFO - Quick book visible
+2026-05-20 14:50:40,668 - INFO - Speciality entered
+2026-05-20 14:50:44,763 - INFO - Date selected
+2026-05-20 14:50:51,166 - INFO - Location entered
+2026-05-20 14:51:03,446 - INFO - Search completed
+2026-05-20 14:51:22,024 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 14:51:22,025 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 14:51:22,114 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 14:51:22,120 - INFO - Closing Browser
+2026-05-20 14:51:24,413 - INFO - Browser Closed Successfully
+2026-05-20 15:11:10,850 - INFO - Launching Chrome Browser
+2026-05-20 15:11:10,870 - INFO - ====== WebDriver manager ======
+2026-05-20 15:11:12,111 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:11:13,829 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:11:15,429 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:11:17,380 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:11:25,579 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:11:25,580 - INFO - Starting FULL E2E Test
+2026-05-20 15:11:25,581 - INFO - Starting Homepage Load Test
+2026-05-20 15:11:25,581 - INFO - Verifying homepage loaded
+2026-05-20 15:11:25,581 - INFO - Checking for popup
+2026-05-20 15:11:30,710 - INFO - Popup not displayed
+2026-05-20 15:11:30,722 - INFO - Hidden popup removed using JavaScript
+2026-05-20 15:11:30,830 - INFO - Homepage loaded status: True
+2026-05-20 15:11:30,830 - INFO - Homepage Load Test Passed
+2026-05-20 15:11:30,830 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 15:11:31,050 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:11:31,057 - INFO - Starting Login Test
+2026-05-20 15:11:31,057 - INFO - Clicking Login Button
+2026-05-20 15:11:33,167 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 15:11:35,490 - INFO - Clicking Continue Button
+2026-05-20 15:11:35,559 - INFO - Waiting For Manual OTP Entry
+2026-05-20 15:12:12,264 - INFO - Verifying Login Success
+2026-05-20 15:12:12,272 - INFO - Login Test Passed Successfully
+2026-05-20 15:12:12,273 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 15:12:12,442 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:12:19,598 - INFO - Navigation successful
+2026-05-20 15:12:21,641 - INFO - Quick book visible
+2026-05-20 15:12:29,032 - INFO - Speciality entered
+2026-05-20 15:12:33,135 - INFO - Date selected
+2026-05-20 15:12:39,532 - INFO - Location entered
+2026-05-20 15:12:52,115 - ERROR - Test Failed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 15:12:52,205 - ERROR - Failure Screenshot Captured and Attached
+2026-05-20 15:12:57,972 - INFO - Navigation successful
+2026-05-20 15:13:00,030 - INFO - Quick book visible
+2026-05-20 15:13:07,434 - INFO - Speciality entered
+2026-05-20 15:13:11,526 - INFO - Date selected
+2026-05-20 15:13:17,922 - INFO - Location entered
+2026-05-20 15:13:30,173 - ERROR - Test Failed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 15:13:30,256 - ERROR - Failure Screenshot Captured and Attached
+2026-05-20 15:13:30,262 - INFO - Closing Browser
+2026-05-20 15:13:32,533 - INFO - Browser Closed Successfully
+2026-05-20 15:19:50,722 - INFO - Launching Chrome Browser
+2026-05-20 15:19:50,743 - INFO - ====== WebDriver manager ======
+2026-05-20 15:19:51,955 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:19:53,240 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:19:54,541 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:19:55,738 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:20:02,682 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:20:02,683 - INFO - Starting FULL E2E Test
+2026-05-20 15:20:02,683 - INFO - Starting Homepage Load Test
+2026-05-20 15:20:02,683 - INFO - Verifying homepage loaded
+2026-05-20 15:20:02,683 - INFO - Checking for popup
+2026-05-20 15:20:07,809 - INFO - Popup not displayed
+2026-05-20 15:20:07,818 - INFO - Hidden popup removed using JavaScript
+2026-05-20 15:20:07,848 - INFO - Homepage loaded status: True
+2026-05-20 15:20:07,848 - INFO - Homepage Load Test Passed
+2026-05-20 15:20:07,849 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 15:20:08,024 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:20:08,029 - INFO - Starting Login Test
+2026-05-20 15:20:08,029 - INFO - Clicking Login Button
+2026-05-20 15:20:10,104 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 15:20:12,296 - INFO - Clicking Continue Button
+2026-05-20 15:20:12,560 - INFO - Waiting For Manual OTP Entry
+2026-05-20 15:20:49,069 - INFO - Verifying Login Success
+2026-05-20 15:20:49,077 - INFO - Login Test Passed Successfully
+2026-05-20 15:20:49,077 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 15:20:49,233 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:20:56,456 - INFO - Navigation successful
+2026-05-20 15:20:58,541 - INFO - Quick book visible
+2026-05-20 15:21:06,046 - INFO - Speciality entered
+2026-05-20 15:21:10,171 - INFO - Date selected
+2026-05-20 15:21:17,075 - INFO - Location entered
+2026-05-20 15:21:29,897 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 15:21:29,898 - INFO - Search result page opened successfully
+2026-05-20 15:21:29,898 - INFO - Speciality Match Status: True
+2026-05-20 15:21:29,898 - INFO - Location Match Status: True
+2026-05-20 15:21:29,898 - INFO - Speciality and Location validation successful
+2026-05-20 15:21:29,898 - INFO - Search completed
+2026-05-20 15:21:48,435 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 15:21:48,435 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 15:21:48,515 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:21:54,397 - INFO - Navigation successful
+2026-05-20 15:21:56,478 - INFO - Quick book visible
+2026-05-20 15:22:04,203 - INFO - Speciality entered
+2026-05-20 15:22:08,307 - INFO - Date selected
+2026-05-20 15:22:14,721 - INFO - Location entered
+2026-05-20 15:22:27,345 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-30&name=cardiology
+2026-05-20 15:22:27,345 - INFO - Search result page opened successfully
+2026-05-20 15:22:27,345 - INFO - Speciality Match Status: True
+2026-05-20 15:22:27,345 - INFO - Location Match Status: True
+2026-05-20 15:22:27,345 - INFO - Speciality and Location validation successful
+2026-05-20 15:22:27,345 - INFO - Search completed
+2026-05-20 15:22:45,958 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 15:22:45,958 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 15:22:46,051 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:22:46,056 - INFO - Closing Browser
+2026-05-20 15:22:48,388 - INFO - Browser Closed Successfully
+2026-05-20 15:26:53,934 - INFO - Launching Chrome Browser
+2026-05-20 15:26:53,947 - INFO - ====== WebDriver manager ======
+2026-05-20 15:26:55,530 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:26:56,895 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:26:58,246 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:27:00,086 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:27:11,413 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:27:11,416 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:27:11,416 - INFO - TestType: POSITIVE
+2026-05-20 15:27:11,416 - INFO - Speciality: Cardiology
+2026-05-20 15:27:11,416 - INFO - Date: 25
+2026-05-20 15:27:11,416 - INFO - Location: Chennai
+2026-05-20 15:27:11,416 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:27:19,343 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:27:21,381 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:27:28,785 - INFO - Selecting Date: 25
+2026-05-20 15:27:32,891 - INFO - Entering Location: Chennai
+2026-05-20 15:28:06,820 - INFO - Clicking Submit Button
+2026-05-20 15:28:17,896 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:28:17,896 - INFO - Executing POSITIVE validation
+2026-05-20 15:28:18,115 - ERROR - Test Failed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 15:28:18,266 - ERROR - Failure Screenshot Captured and Attached
+2026-05-20 15:28:18,277 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:28:18,277 - INFO - TestType: POSITIVE
+2026-05-20 15:28:18,277 - INFO - Speciality: Neurology
+2026-05-20 15:28:18,277 - INFO - Date: 30
+2026-05-20 15:28:18,277 - INFO - Location: Bangalore
+2026-05-20 15:28:18,277 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:28:24,419 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:28:26,440 - INFO - Entering Speciality: Neurology
+2026-05-20 15:28:33,832 - INFO - Selecting Date: 30
+2026-05-20 15:28:37,919 - INFO - Entering Location: Bangalore
+2026-05-20 15:28:45,777 - INFO - Clicking Submit Button
+2026-05-20 15:29:02,436 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 15:29:02,437 - INFO - Executing POSITIVE validation
+2026-05-20 15:29:02,437 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:29:02,437 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:29:02,437 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 15:29:02,525 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:29:02,535 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:29:02,535 - INFO - TestType: POSITIVE
+2026-05-20 15:29:02,535 - INFO - Speciality: Dermatology
+2026-05-20 15:29:02,535 - INFO - Date: 20
+2026-05-20 15:29:02,535 - INFO - Location: Jaipur
+2026-05-20 15:29:02,535 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:29:08,847 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:29:10,870 - INFO - Entering Speciality: Dermatology
+2026-05-20 15:29:18,268 - INFO - Selecting Date: 20
+2026-05-20 15:29:22,369 - INFO - Entering Location: Jaipur
+2026-05-20 15:29:28,987 - INFO - Clicking Submit Button
+2026-05-20 15:29:41,271 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 15:29:41,271 - INFO - Executing POSITIVE validation
+2026-05-20 15:29:41,271 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:29:41,271 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:29:41,272 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 15:29:41,360 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:29:41,370 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:29:41,370 - INFO - TestType: POSITIVE
+2026-05-20 15:29:41,370 - INFO - Speciality: ENT
+2026-05-20 15:29:41,370 - INFO - Date: 22
+2026-05-20 15:29:41,370 - INFO - Location: Delhi
+2026-05-20 15:29:41,370 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:29:47,471 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:29:49,493 - INFO - Entering Speciality: ENT
+2026-05-20 15:29:56,874 - INFO - Selecting Date: 22
+2026-05-20 15:30:00,984 - INFO - Entering Location: Delhi
+2026-05-20 15:30:07,390 - INFO - Clicking Submit Button
+2026-05-20 15:30:19,942 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 15:30:19,942 - INFO - Executing POSITIVE validation
+2026-05-20 15:30:19,942 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:30:19,942 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:30:19,942 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 15:30:20,041 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:30:20,050 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:30:20,050 - INFO - TestType: NEGATIVE
+2026-05-20 15:30:20,050 - INFO - Speciality: FakeSpec
+2026-05-20 15:30:20,051 - INFO - Date: 99
+2026-05-20 15:30:20,051 - INFO - Location: Nowhere
+2026-05-20 15:30:20,051 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:30:26,169 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:30:28,197 - INFO - Entering Speciality: FakeSpec
+2026-05-20 15:30:33,555 - INFO - Selecting Date: 99
+2026-05-20 15:31:07,859 - INFO - Entering Location: Nowhere
+2026-05-20 15:31:41,854 - INFO - Clicking Submit Button
+2026-05-20 15:31:52,931 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:31:52,931 - INFO - Executing NEGATIVE validation
+2026-05-20 15:31:52,932 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:31:52,932 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 15:31:53,092 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:31:53,103 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:31:53,103 - INFO - TestType: NEGATIVE
+2026-05-20 15:31:53,103 - INFO - Speciality: Cardiology
+2026-05-20 15:31:53,104 - INFO - Date: 1
+2026-05-20 15:31:53,104 - INFO - Location: InvalidCity
+2026-05-20 15:31:53,104 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:32:00,355 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:32:02,378 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:32:09,765 - INFO - Selecting Date: 1
+2026-05-20 15:32:44,039 - INFO - Entering Location: InvalidCity
+2026-05-20 15:33:18,994 - INFO - Clicking Submit Button
+2026-05-20 15:33:30,051 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:33:30,051 - INFO - Executing NEGATIVE validation
+2026-05-20 15:33:30,051 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:33:30,052 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 15:33:30,195 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:33:30,201 - INFO - Closing Browser
+2026-05-20 15:33:32,499 - INFO - Browser Closed Successfully
+2026-05-20 15:38:28,891 - INFO - Launching Chrome Browser
+2026-05-20 15:38:28,904 - INFO - ====== WebDriver manager ======
+2026-05-20 15:38:30,490 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:38:31,836 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:38:33,257 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:38:34,605 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:38:43,971 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:38:43,973 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:38:43,973 - INFO - TestType: POSITIVE
+2026-05-20 15:38:43,973 - INFO - Speciality: Cardiology
+2026-05-20 15:38:43,973 - INFO - Date: 25
+2026-05-20 15:38:43,973 - INFO - Location: Chennai
+2026-05-20 15:38:43,973 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:38:51,654 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:38:53,680 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:39:01,141 - INFO - Selecting Date: 25
+2026-05-20 15:39:05,243 - INFO - Entering Location: Chennai
+2026-05-20 15:39:11,883 - INFO - Clicking Submit Button
+2026-05-20 15:39:22,966 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:39:22,966 - INFO - Executing POSITIVE validation
+2026-05-20 15:39:22,966 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:39:22,966 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:39:22,966 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 15:39:23,119 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:39:23,131 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:39:23,131 - INFO - TestType: POSITIVE
+2026-05-20 15:39:23,131 - INFO - Speciality: Neurology
+2026-05-20 15:39:23,131 - INFO - Date: 30
+2026-05-20 15:39:23,131 - INFO - Location: Bangalore
+2026-05-20 15:39:23,131 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:39:29,545 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:39:31,563 - INFO - Entering Speciality: Neurology
+2026-05-20 15:39:38,931 - INFO - Selecting Date: 30
+2026-05-20 15:39:43,030 - INFO - Entering Location: Bangalore
+2026-05-20 15:39:51,365 - INFO - Clicking Submit Button
+2026-05-20 15:40:03,683 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 15:40:03,683 - INFO - Executing POSITIVE validation
+2026-05-20 15:40:03,684 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:40:03,684 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:40:03,684 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 15:40:03,768 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:40:03,778 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:40:03,778 - INFO - TestType: POSITIVE
+2026-05-20 15:40:03,778 - INFO - Speciality: Dermatology
+2026-05-20 15:40:03,778 - INFO - Date: 20
+2026-05-20 15:40:03,778 - INFO - Location: Jaipur
+2026-05-20 15:40:03,778 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:40:09,809 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:40:11,829 - INFO - Entering Speciality: Dermatology
+2026-05-20 15:40:19,248 - INFO - Selecting Date: 20
+2026-05-20 15:40:23,342 - INFO - Entering Location: Jaipur
+2026-05-20 15:40:31,695 - INFO - Clicking Submit Button
+2026-05-20 15:40:44,684 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 15:40:44,684 - INFO - Executing POSITIVE validation
+2026-05-20 15:40:44,684 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:40:44,684 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:40:44,684 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 15:40:44,771 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:40:44,780 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:40:44,781 - INFO - TestType: POSITIVE
+2026-05-20 15:40:44,781 - INFO - Speciality: ENT
+2026-05-20 15:40:44,781 - INFO - Date: 22
+2026-05-20 15:40:44,781 - INFO - Location: Delhi
+2026-05-20 15:40:44,781 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:40:50,777 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:40:52,800 - INFO - Entering Speciality: ENT
+2026-05-20 15:41:00,157 - INFO - Selecting Date: 22
+2026-05-20 15:41:04,247 - INFO - Entering Location: Delhi
+2026-05-20 15:41:12,553 - INFO - Clicking Submit Button
+2026-05-20 15:41:25,607 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 15:41:25,607 - INFO - Executing POSITIVE validation
+2026-05-20 15:41:25,607 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:41:25,607 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:41:25,608 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 15:41:25,676 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:41:25,686 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:41:25,686 - INFO - TestType: NEGATIVE
+2026-05-20 15:41:25,686 - INFO - Speciality: FakeSpec
+2026-05-20 15:41:25,686 - INFO - Date: 99
+2026-05-20 15:41:25,686 - INFO - Location: Nowhere
+2026-05-20 15:41:25,686 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:41:31,943 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:41:33,965 - INFO - Entering Speciality: FakeSpec
+2026-05-20 15:41:39,399 - INFO - Selecting Date: 99
+2026-05-20 15:42:13,634 - INFO - Entering Location: Nowhere
+2026-05-20 15:42:19,970 - INFO - Clicking Submit Button
+2026-05-20 15:42:31,044 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:42:31,044 - INFO - Executing NEGATIVE validation
+2026-05-20 15:42:31,044 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:42:31,044 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 15:42:31,192 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:42:31,202 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:42:31,202 - INFO - TestType: NEGATIVE
+2026-05-20 15:42:31,202 - INFO - Speciality: Cardiology
+2026-05-20 15:42:31,202 - INFO - Date: 1
+2026-05-20 15:42:31,202 - INFO - Location: InvalidCity
+2026-05-20 15:42:31,202 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:42:38,338 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:42:40,357 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:42:47,694 - INFO - Selecting Date: 1
+2026-05-20 15:43:21,943 - INFO - Entering Location: InvalidCity
+2026-05-20 15:43:28,299 - INFO - Clicking Submit Button
+2026-05-20 15:43:39,359 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:43:39,359 - INFO - Executing NEGATIVE validation
+2026-05-20 15:43:39,359 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:43:39,360 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 15:43:39,486 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:43:39,493 - INFO - Closing Browser
+2026-05-20 15:43:41,789 - INFO - Browser Closed Successfully
+2026-05-20 15:47:36,086 - INFO - Launching Chrome Browser
+2026-05-20 15:47:36,100 - INFO - ====== WebDriver manager ======
+2026-05-20 15:47:37,316 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:47:39,672 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:47:41,052 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:47:41,723 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:47:57,892 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:47:57,894 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:47:57,894 - INFO - TestType: POSITIVE
+2026-05-20 15:47:57,894 - INFO - Speciality: Cardiology
+2026-05-20 15:47:57,894 - INFO - Date: 25
+2026-05-20 15:47:57,894 - INFO - Location: Chennai
+2026-05-20 15:47:57,894 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:48:07,896 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:48:09,917 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:48:17,314 - INFO - Selecting Date: 25
+2026-05-20 15:48:21,414 - INFO - Entering Location: Chennai
+2026-05-20 15:48:28,233 - INFO - Clicking Submit Button
+2026-05-20 15:48:40,983 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 15:48:40,983 - INFO - Executing POSITIVE validation
+2026-05-20 15:48:40,983 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:48:40,983 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:48:40,983 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Cardiology-25-Chennai-PASS]
+2026-05-20 15:48:41,057 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:48:41,066 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:48:41,066 - INFO - TestType: POSITIVE
+2026-05-20 15:48:41,066 - INFO - Speciality: Neurology
+2026-05-20 15:48:41,066 - INFO - Date: 30
+2026-05-20 15:48:41,067 - INFO - Location: Bangalore
+2026-05-20 15:48:41,067 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:48:49,495 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:48:51,518 - INFO - Entering Speciality: Neurology
+2026-05-20 15:48:58,950 - INFO - Selecting Date: 30
+2026-05-20 15:49:03,047 - INFO - Entering Location: Bangalore
+2026-05-20 15:49:09,856 - INFO - Clicking Submit Button
+2026-05-20 15:49:26,562 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+2026-05-20 15:49:26,562 - INFO - Executing POSITIVE validation
+2026-05-20 15:49:26,562 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:49:26,562 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:49:26,562 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Neurology-30-Bangalore-PASS]
+2026-05-20 15:49:26,658 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:49:26,668 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:49:26,668 - INFO - TestType: POSITIVE
+2026-05-20 15:49:26,668 - INFO - Speciality: Dermatology
+2026-05-20 15:49:26,668 - INFO - Date: 20
+2026-05-20 15:49:26,668 - INFO - Location: Jaipur
+2026-05-20 15:49:26,668 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:49:34,091 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:49:36,116 - INFO - Entering Speciality: Dermatology
+2026-05-20 15:49:43,552 - INFO - Selecting Date: 20
+2026-05-20 15:49:47,649 - INFO - Entering Location: Jaipur
+2026-05-20 15:49:54,284 - INFO - Clicking Submit Button
+2026-05-20 15:50:06,270 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=jaipur&id=73dae7a6-ec1f-45c4-98bd-0c8acb6e4eca&date=2026-05-20&name=dermatology
+2026-05-20 15:50:06,270 - INFO - Executing POSITIVE validation
+2026-05-20 15:50:06,270 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:50:06,270 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:50:06,271 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-Dermatology-20-Jaipur-PASS]
+2026-05-20 15:50:06,355 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:50:06,364 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:50:06,365 - INFO - TestType: POSITIVE
+2026-05-20 15:50:06,365 - INFO - Speciality: ENT
+2026-05-20 15:50:06,365 - INFO - Date: 22
+2026-05-20 15:50:06,365 - INFO - Location: Delhi
+2026-05-20 15:50:06,365 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:50:12,378 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:50:14,418 - INFO - Entering Speciality: ENT
+2026-05-20 15:50:21,809 - INFO - Selecting Date: 22
+2026-05-20 15:50:25,906 - INFO - Entering Location: Delhi
+2026-05-20 15:50:31,803 - INFO - Clicking Submit Button
+2026-05-20 15:50:44,350 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+2026-05-20 15:50:44,350 - INFO - Executing POSITIVE validation
+2026-05-20 15:50:44,350 - INFO - POSITIVE TEST PASSED
+2026-05-20 15:50:44,350 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:50:44,351 - INFO - Test Passed: test_find_doctor_excel[POSITIVE-ENT-22-Delhi-PASS]
+2026-05-20 15:50:44,436 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:50:44,446 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:50:44,446 - INFO - TestType: NEGATIVE
+2026-05-20 15:50:44,446 - INFO - Speciality: FakeSpec
+2026-05-20 15:50:44,446 - INFO - Date: 99
+2026-05-20 15:50:44,446 - INFO - Location: Nowhere
+2026-05-20 15:50:44,446 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:50:50,513 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:50:52,536 - INFO - Entering Speciality: FakeSpec
+2026-05-20 15:50:57,869 - INFO - Selecting Date: 99
+2026-05-20 15:51:32,160 - INFO - Entering Location: Nowhere
+2026-05-20 15:52:06,146 - INFO - Clicking Submit Button
+2026-05-20 15:52:17,215 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:52:17,215 - INFO - Executing NEGATIVE validation
+2026-05-20 15:52:17,215 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:52:17,216 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-FakeSpec-99-Nowhere-FAIL]
+2026-05-20 15:52:17,351 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:52:17,361 - INFO - ========== STARTING TEST CASE ==========
+2026-05-20 15:52:17,361 - INFO - TestType: NEGATIVE
+2026-05-20 15:52:17,361 - INFO - Speciality: Cardiology
+2026-05-20 15:52:17,361 - INFO - Date: 1
+2026-05-20 15:52:17,361 - INFO - Location: InvalidCity
+2026-05-20 15:52:17,361 - INFO - Clicking Find Doctor Menu
+2026-05-20 15:52:24,613 - INFO - Scrolling to QuickBook Section
+2026-05-20 15:52:26,636 - INFO - Entering Speciality: Cardiology
+2026-05-20 15:52:34,021 - INFO - Selecting Date: 1
+2026-05-20 15:53:08,273 - INFO - Entering Location: InvalidCity
+2026-05-20 15:53:43,216 - INFO - Clicking Submit Button
+2026-05-20 15:53:54,290 - INFO - Current URL: https://www.apollo247.com/specialties
+2026-05-20 15:53:54,290 - INFO - Executing NEGATIVE validation
+2026-05-20 15:53:54,290 - INFO - ========== TEST CASE COMPLETED ==========
+2026-05-20 15:53:54,291 - INFO - Test Passed: test_find_doctor_excel[NEGATIVE-Cardiology-1-InvalidCity-FAIL]
+2026-05-20 15:53:54,432 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:53:54,437 - INFO - Closing Browser
+2026-05-20 15:53:56,821 - INFO - Browser Closed Successfully
+2026-05-20 15:55:07,004 - INFO - Launching Chrome Browser
+2026-05-20 15:55:07,017 - INFO - ====== WebDriver manager ======
+2026-05-20 15:55:08,268 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:55:09,816 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 15:55:11,146 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 15:55:11,762 - INFO - Chrome Browser Launched Successfully
+2026-05-20 15:55:25,271 - INFO - Navigated to Apollo247 Website
+2026-05-20 15:55:25,272 - INFO - Starting FULL E2E Test
+2026-05-20 15:55:25,272 - INFO - Starting Homepage Load Test
+2026-05-20 15:55:25,272 - INFO - Verifying homepage loaded
+2026-05-20 15:55:25,272 - INFO - Checking for popup
+2026-05-20 15:55:30,417 - INFO - Popup not displayed
+2026-05-20 15:55:30,426 - INFO - Hidden popup removed using JavaScript
+2026-05-20 15:55:30,466 - INFO - Homepage loaded status: True
+2026-05-20 15:55:30,466 - INFO - Homepage Load Test Passed
+2026-05-20 15:55:30,467 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 15:55:30,691 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:55:30,697 - INFO - Starting Login Test
+2026-05-20 15:55:30,697 - INFO - Clicking Login Button
+2026-05-20 15:55:32,769 - INFO - Entering Phone Number: ('8795249909',)
+2026-05-20 15:55:34,888 - INFO - Clicking Continue Button
+2026-05-20 15:55:34,957 - INFO - Waiting For Manual OTP Entry
+2026-05-20 15:56:14,264 - INFO - Verifying Login Success
+2026-05-20 15:56:14,270 - INFO - Login Test Passed Successfully
+2026-05-20 15:56:14,271 - INFO - Test Passed: test_login[phone_number0]
+2026-05-20 15:56:14,417 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:56:25,517 - INFO - Navigation successful
+2026-05-20 15:56:27,567 - INFO - Quick book visible
+2026-05-20 15:56:35,044 - INFO - Speciality entered
+2026-05-20 15:56:39,153 - INFO - Date selected
+2026-05-20 15:56:46,006 - INFO - Location entered
+2026-05-20 15:56:58,855 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+2026-05-20 15:56:58,855 - INFO - Search result page opened successfully
+2026-05-20 15:56:58,855 - INFO - Speciality Match Status: True
+2026-05-20 15:56:58,855 - INFO - Location Match Status: True
+2026-05-20 15:56:58,855 - INFO - Speciality and Location validation successful
+2026-05-20 15:56:58,855 - INFO - Search completed
+2026-05-20 15:57:17,296 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 15:57:17,297 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-25-Chennai-Hospital Visit-19-08:00 AM]
+2026-05-20 15:57:17,361 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:57:23,237 - INFO - Navigation successful
+2026-05-20 15:57:25,287 - INFO - Quick book visible
+2026-05-20 15:57:32,870 - INFO - Speciality entered
+2026-05-20 15:57:36,968 - INFO - Date selected
+2026-05-20 15:57:42,855 - INFO - Location entered
+2026-05-20 15:57:55,229 - INFO - Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-30&name=cardiology
+2026-05-20 15:57:55,229 - INFO - Search result page opened successfully
+2026-05-20 15:57:55,229 - INFO - Speciality Match Status: True
+2026-05-20 15:57:55,229 - INFO - Location Match Status: True
+2026-05-20 15:57:55,229 - INFO - Speciality and Location validation successful
+2026-05-20 15:57:55,230 - INFO - Search completed
+2026-05-20 15:58:13,731 - INFO - FULL E2E FLOW COMPLETED SUCCESSFULLY
+2026-05-20 15:58:13,731 - INFO - Test Passed: test_find_and_schedule_appointment[Cardiology-30-Delhi-Online Consult-20-12:00 PM]
+2026-05-20 15:58:13,819 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 15:58:13,825 - INFO - Closing Browser
+2026-05-20 15:58:16,264 - INFO - Browser Closed Successfully
+2026-05-20 17:49:46,512 - INFO - Launching Chrome Browser
+2026-05-20 17:49:46,527 - INFO - ====== WebDriver manager ======
+2026-05-20 17:49:47,664 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 17:49:49,281 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-20 17:49:51,190 - INFO - Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+2026-05-20 17:49:52,369 - INFO - Chrome Browser Launched Successfully
+2026-05-20 17:49:55,489 - INFO - Navigated to Apollo247 Website
+2026-05-20 17:49:55,490 - INFO - Starting FULL E2E Test
+2026-05-20 17:49:55,490 - INFO - Starting Homepage Load Test
+2026-05-20 17:49:55,490 - INFO - Verifying homepage loaded
+2026-05-20 17:49:55,490 - INFO - Checking for popup
+2026-05-20 17:50:00,541 - INFO - Popup not displayed
+2026-05-20 17:50:00,548 - INFO - Hidden popup removed using JavaScript
+2026-05-20 17:50:00,579 - INFO - Homepage loaded status: True
+2026-05-20 17:50:00,580 - INFO - Homepage Load Test Passed
+2026-05-20 17:50:00,580 - INFO - Test Passed: test_homepage_loaded
+2026-05-20 17:50:00,735 - INFO - Pass Screenshot Captured and Attached
+2026-05-20 17:50:00,740 - INFO - Starting Login Test
+2026-05-20 17:50:00,741 - INFO - Clicking Login Button
+2026-05-20 17:50:02,807 - INFO - Entering Phone Number: ('9670258774',)
+2026-05-20 17:50:04,940 - INFO - Clicking Continue Button
+2026-05-20 17:50:05,017 - INFO - Waiting For Manual OTP Entry
+2026-05-20 17:51:06,350 - ERROR - Test Failed: test_login[phone_number0]
+2026-05-20 17:51:06,467 - ERROR - Failure Screenshot Captured and Attached
+2026-05-20 17:51:15,293 - INFO - Navigation successful
+2026-05-20 17:51:17,365 - INFO - Quick book visible
+2026-05-20 17:51:24,762 - INFO - Speciality entered
+2026-05-20 17:51:26,155 - INFO - Closing Browser
