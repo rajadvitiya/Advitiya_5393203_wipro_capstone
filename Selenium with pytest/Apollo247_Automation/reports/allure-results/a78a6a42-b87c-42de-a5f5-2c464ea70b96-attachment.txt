@@ -1,0 +1,3 @@
+Selected Date: 30
+Entered Location: Bangalore
+Final Location Value: Bangalore

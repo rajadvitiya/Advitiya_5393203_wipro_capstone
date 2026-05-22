@@ -6,6 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 from utils.screenshot_util import ScreenshotUtil
 from utils.logger import LogGen
+from utils.allure_report_generator import AllureReportGenerator
 
 
 logger = LogGen.loggen()
@@ -39,7 +40,10 @@ def driver():
     logger.info("Browser Closed Successfully")
 
 
-# SINGLE HOOK ONLY
+# =========================================================
+# SCREENSHOT HOOK
+# =========================================================
+
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
 
@@ -96,3 +100,16 @@ def pytest_runtest_makereport(item, call):
                 logger.error(
                     "Failure Screenshot Captured and Attached"
                 )
+
+
+# =========================================================
+# GENERATE ALLURE REPORT AFTER EXECUTION
+# =========================================================
+
+def pytest_sessionfinish(session, exitstatus):
+
+    logger.info("Generating Allure Report")
+
+    AllureReportGenerator.generate_report()
+
+    logger.info("Allure Report Generated Successfully")

@@ -1,0 +1,22 @@
+[32mINFO    [0m root:conftest.py:18 Launching Chrome Browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:28 Chrome Browser Launched Successfully
+[32mINFO    [0m root:conftest.py:32 Navigated to Apollo247 Website
+[32mINFO    [0m root:test_positivenegative.py:31 ========== STARTING TEST CASE ==========
+[32mINFO    [0m root:test_positivenegative.py:32 TestType: POSITIVE
+[32mINFO    [0m root:test_positivenegative.py:33 Speciality: Cardiology
+[32mINFO    [0m root:test_positivenegative.py:34 Date: 25
+[32mINFO    [0m root:test_positivenegative.py:35 Location: Chennai
+[32mINFO    [0m root:test_positivenegative.py:40 Clicking Find Doctor Menu
+[32mINFO    [0m root:test_positivenegative.py:45 Scrolling to QuickBook Section
+[32mINFO    [0m root:test_positivenegative.py:49 Entering Speciality: Cardiology
+[32mINFO    [0m root:test_positivenegative.py:54 Selecting Date: 25
+[32mINFO    [0m root:test_positivenegative.py:57 Entering Location: Chennai
+[32mINFO    [0m root:test_positivenegative.py:63 Clicking Submit Button
+[32mINFO    [0m root:test_positivenegative.py:69 Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+[32mINFO    [0m root:test_positivenegative.py:74 Executing POSITIVE validation
+[32mINFO    [0m root:test_positivenegative.py:82 POSITIVE TEST PASSED
+[32mINFO    [0m root:test_positivenegative.py:111 ========== TEST CASE COMPLETED ==========

@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_positivenegative.py:31 ========== STARTING TEST CASE ==========
+[32mINFO    [0m root:test_positivenegative.py:32 TestType: POSITIVE
+[32mINFO    [0m root:test_positivenegative.py:33 Speciality: Neurology
+[32mINFO    [0m root:test_positivenegative.py:34 Date: 30
+[32mINFO    [0m root:test_positivenegative.py:35 Location: Bangalore
+[32mINFO    [0m root:test_positivenegative.py:40 Clicking Find Doctor Menu
+[32mINFO    [0m root:test_positivenegative.py:45 Scrolling to QuickBook Section
+[32mINFO    [0m root:test_positivenegative.py:49 Entering Speciality: Neurology
+[32mINFO    [0m root:test_positivenegative.py:54 Selecting Date: 30
+[32mINFO    [0m root:test_positivenegative.py:57 Entering Location: Bangalore
+[32mINFO    [0m root:test_positivenegative.py:63 Clicking Submit Button
+[32mINFO    [0m root:test_positivenegative.py:69 Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=bangalore&id=6cfd24bb-4a6c-4eb7-b6ec-6f69ec2baa64&date=2026-05-30&name=neurology
+[32mINFO    [0m root:test_positivenegative.py:74 Executing POSITIVE validation
+[32mINFO    [0m root:test_positivenegative.py:82 POSITIVE TEST PASSED
+[32mINFO    [0m root:test_positivenegative.py:111 ========== TEST CASE COMPLETED ==========

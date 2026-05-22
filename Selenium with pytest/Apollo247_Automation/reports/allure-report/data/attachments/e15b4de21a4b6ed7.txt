@@ -1,0 +1,15 @@
+[32mINFO    [0m root:conftest.py:18 Launching Chrome Browser
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\Advitiya Raj\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win32/chromedriver.exe] found in cache
+[32mINFO    [0m root:conftest.py:28 Chrome Browser Launched Successfully
+[32mINFO    [0m root:conftest.py:32 Navigated to Apollo247 Website
+[32mINFO    [0m root:test_e2e.py:22 Starting FULL E2E Test
+[32mINFO    [0m root:test_e2e.py:23 Starting Homepage Load Test
+[32mINFO    [0m root:homepage.py:113 Verifying homepage loaded
+[32mINFO    [0m root:homepage.py:34 Checking for popup
+[32mINFO    [0m root:homepage.py:52 Popup not displayed
+[32mINFO    [0m root:homepage.py:65 Hidden popup removed using JavaScript
+[32mINFO    [0m root:homepage.py:121 Homepage loaded status: True
+[32mINFO    [0m root:test_e2e.py:29 Homepage Load Test Passed

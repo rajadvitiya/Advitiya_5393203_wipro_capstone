@@ -79,7 +79,7 @@ class LoginPage(BasePage):
             continue_btn
         )
 
-        print("Clicked Continue Button")
+
 
     def enter_otp_manually_and_verify(self):
 
@@ -90,11 +90,10 @@ class LoginPage(BasePage):
             )
         )
 
-        print("OTP Sent Successfully")
-        print("Waiting 30 Seconds For Manual OTP Entry...")
+
 
         # TIME TO ENTER OTP MANUALLY
-        time.sleep(30)
+        # time.sleep(30)
 
         # CLICK VERIFY BUTTON
         verify_btn = self.wait.until(
@@ -126,4 +125,3 @@ class LoginPage(BasePage):
 
         time.sleep(5)
 
-        print("Login Completed Successfully")

@@ -100,7 +100,7 @@ class AvailableDoctorPage(BasePage):
             doctor
         )
 
-        time.sleep(2)
+        # time.sleep(2)
 
         self.driver.execute_script(
             "arguments[0].click();",
@@ -109,11 +109,11 @@ class AvailableDoctorPage(BasePage):
 
 
 
-        time.sleep(5)
+        # time.sleep(5)
 
     def select_schedule_date(self, required_date):
 
-        time.sleep(2)
+        # time.sleep(2)
 
         def get_dates():
             return self.driver.find_elements(*self.DATE_OPTIONS)
@@ -124,7 +124,7 @@ class AvailableDoctorPage(BasePage):
 
         for d in dates:
             text = d.text.strip()
-            print(f"Available Date: {text}")
+
 
             if required_date in text:
                 self.driver.execute_script("arguments[0].click();", d)
@@ -136,9 +136,8 @@ class AvailableDoctorPage(BasePage):
         if not selected:
             if dates:
                 self.driver.execute_script("arguments[0].click();", dates[0])
-                print("Required date not found → selected first available date")
-            else:
-                print("No dates found at all")
+
+
 
     def select_schedule_time(self, required_time):
 
@@ -213,8 +212,7 @@ class AvailableDoctorPage(BasePage):
         if slots:
             self.driver.execute_script("arguments[0].click();", slots[0])
 
-        else:
-            print("No slots available even after fallback")
+
     def click_continue(self):
 
         continue_btn = self.wait_until_clickable(
@@ -278,10 +276,7 @@ class AvailableDoctorPage(BasePage):
             elements = self.driver.find_elements(*locator)
 
             if len(elements) > 0 and elements[0].is_displayed():
-                print(
-                    "Appointment Booking Page "
-                    "Opened Successfully"
-                )
+
 
                 return True
 

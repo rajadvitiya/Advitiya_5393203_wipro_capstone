@@ -93,7 +93,7 @@ class FindDoctorPage(BasePage):
             menu
         )
 
-        time.sleep(3)
+        # time.sleep(3)
 
     # =========================================================
     # SCROLL TO QUICKBOOK SECTION
@@ -126,7 +126,7 @@ class FindDoctorPage(BasePage):
 
         dropdown.click()
 
-        time.sleep(2)
+        # time.sleep(2)
 
         search_input = self.wait_until_clickable(
             self.SPECIALITY_SEARCH_INPUT
@@ -139,7 +139,7 @@ class FindDoctorPage(BasePage):
 
         search_input.send_keys(speciality)
 
-        time.sleep(3)
+        # time.sleep(3)
 
         options = self.wait.until(
             EC.presence_of_all_elements_located(
@@ -165,7 +165,7 @@ class FindDoctorPage(BasePage):
 
 
 
-                time.sleep(2)
+                # time.sleep(2)
 
                 return option_text
 
@@ -189,7 +189,7 @@ class FindDoctorPage(BasePage):
 
         calendar = self.wait_until_clickable(self.CALENDAR_ICON)
         self.driver.execute_script("arguments[0].click();", calendar)
-        time.sleep(2)
+        # time.sleep(2)
 
         try:
             date_xpath = f"//button[not(@disabled)]//abbr[text()='{required_date}']"
@@ -199,11 +199,11 @@ class FindDoctorPage(BasePage):
             )
 
             self.driver.execute_script("arguments[0].click();", date_element)
-            print(f"Selected Date: {required_date}")
+
 
         except Exception:
             # ❗ FALLBACK: pick ANY enabled date instead of failing
-            print(f"[WARNING] Required date not available: {required_date}")
+
 
             fallback_dates = self.driver.find_elements(
                 By.XPATH,
@@ -212,11 +212,8 @@ class FindDoctorPage(BasePage):
 
             if fallback_dates:
                 self.driver.execute_script("arguments[0].click();", fallback_dates[0])
-                print(f"[FALLBACK] Selected available date instead")
-            else:
-                print("[ERROR] No selectable date found")
 
-        time.sleep(2)
+        # time.sleep(2)
     # =========================================================
     # ENTER LOCATION
     # =========================================================
@@ -281,10 +278,7 @@ class FindDoctorPage(BasePage):
                 "value"
             )
 
-            print(
-                f"Final Location Value: "
-                f"{selected_value}"
-            )
+
 
             return selected_value.lower()
 
@@ -315,10 +309,10 @@ class FindDoctorPage(BasePage):
         try:
             self.driver.execute_script("arguments[0].click();", submit_btn)
         except Exception:
-            print("[WARNING] Submit click failed, retrying normal click")
+
             submit_btn.click()
 
-        time.sleep(5)
+        # time.sleep(5)
 
     # =========================================================
     # COMPLETE FLOW

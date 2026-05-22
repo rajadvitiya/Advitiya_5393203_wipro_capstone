@@ -1,0 +1,6 @@
+Clicked Login Button
+Entered Phone Number: ('8795249909',)
+Clicked Continue Button
+OTP Sent Successfully
+Waiting 30 Seconds For Manual OTP Entry...
+Clicked Verify Button

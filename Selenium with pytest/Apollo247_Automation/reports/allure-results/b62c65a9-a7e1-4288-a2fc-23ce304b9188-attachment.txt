@@ -1,0 +1,4 @@
+[WARNING] Required date not available: 99
+[FALLBACK] Selected available date instead
+Entered Location: Nowhere
+[WARNING] Location not found: Nowhere

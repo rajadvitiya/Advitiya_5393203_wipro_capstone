@@ -1,0 +1,15 @@
+[32mINFO    [0m root:test_positivenegative.py:31 ========== STARTING TEST CASE ==========
+[32mINFO    [0m root:test_positivenegative.py:32 TestType: POSITIVE
+[32mINFO    [0m root:test_positivenegative.py:33 Speciality: ENT
+[32mINFO    [0m root:test_positivenegative.py:34 Date: 22
+[32mINFO    [0m root:test_positivenegative.py:35 Location: Delhi
+[32mINFO    [0m root:test_positivenegative.py:40 Clicking Find Doctor Menu
+[32mINFO    [0m root:test_positivenegative.py:45 Scrolling to QuickBook Section
+[32mINFO    [0m root:test_positivenegative.py:49 Entering Speciality: ENT
+[32mINFO    [0m root:test_positivenegative.py:54 Selecting Date: 22
+[32mINFO    [0m root:test_positivenegative.py:57 Entering Location: Delhi
+[32mINFO    [0m root:test_positivenegative.py:63 Clicking Submit Button
+[32mINFO    [0m root:test_positivenegative.py:69 Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=delhi&id=1a52352b-a80a-4570-ae30-b1f1738be5da&date=2026-05-22&name=ent
+[32mINFO    [0m root:test_positivenegative.py:74 Executing POSITIVE validation
+[32mINFO    [0m root:test_positivenegative.py:82 POSITIVE TEST PASSED
+[32mINFO    [0m root:test_positivenegative.py:111 ========== TEST CASE COMPLETED ==========

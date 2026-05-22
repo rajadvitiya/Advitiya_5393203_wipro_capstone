@@ -1,0 +1,4 @@
+[WARNING] Required date not available: 1
+[FALLBACK] Selected available date instead
+Entered Location: InvalidCity
+[WARNING] Location not found: InvalidCity

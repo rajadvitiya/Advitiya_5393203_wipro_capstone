@@ -1,0 +1,12 @@
+[32mINFO    [0m root:test_e2e.py:128 Navigation successful
+[32mINFO    [0m root:test_e2e.py:138 Quick book visible
+[32mINFO    [0m root:test_e2e.py:147 Speciality entered
+[32mINFO    [0m root:test_e2e.py:155 Date selected
+[32mINFO    [0m root:test_e2e.py:165 Location entered
+[32mINFO    [0m root:test_e2e.py:178 Current URL: https://www.apollo247.com/doctors/quick-book-listing?consultmode=physical&location=chennai&id=f325ede7-8710-49a6-b0ea-32ddc06f2b4c&date=2026-05-25&name=cardiology
+[32mINFO    [0m root:test_e2e.py:189 Search result page opened successfully
+[32mINFO    [0m root:test_e2e.py:207 Speciality Match Status: True
+[32mINFO    [0m root:test_e2e.py:211 Location Match Status: True
+[32mINFO    [0m root:test_e2e.py:229 Speciality and Location validation successful
+[32mINFO    [0m root:test_e2e.py:233 Search completed
+[32mINFO    [0m root:test_e2e.py:277 FULL E2E FLOW COMPLETED SUCCESSFULLY

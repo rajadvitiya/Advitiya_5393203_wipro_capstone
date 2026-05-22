@@ -1,0 +1,35 @@
+Selected Date: 30
+Entered Location: Delhi
+Final Location Value: Delhi
+Selected Consultation Mode: Online Consult
+Available Date: Fri
+22
+May
+Available Date: Sat
+23
+May
+Available Date: Sun
+24
+May
+Available Date: Mon
+25
+May
+Available Date: Tue
+26
+May
+Available Date: Wed
+27
+May
+Available Date: Thu
+28
+May
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Required date not found → selected first available date
+Appointment Booking Page Opened Successfully

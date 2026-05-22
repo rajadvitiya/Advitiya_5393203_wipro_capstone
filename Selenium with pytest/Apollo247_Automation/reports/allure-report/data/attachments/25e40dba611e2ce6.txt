@@ -1,0 +1,16 @@
+[32mINFO    [0m root:test_positivenegative.py:31 ========== STARTING TEST CASE ==========
+[32mINFO    [0m root:test_positivenegative.py:32 TestType: NEGATIVE
+[32mINFO    [0m root:test_positivenegative.py:33 Speciality: Cardiology
+[32mINFO    [0m root:test_positivenegative.py:34 Date: 1
+[32mINFO    [0m root:test_positivenegative.py:35 Location: InvalidCity
+[32mINFO    [0m root:test_positivenegative.py:40 Clicking Find Doctor Menu
+[32mINFO    [0m root:test_positivenegative.py:45 Scrolling to QuickBook Section
+[32mINFO    [0m root:test_positivenegative.py:49 Entering Speciality: Cardiology
+[32mINFO    [0m root:test_positivenegative.py:54 Selecting Date: 1
+[32mINFO    [0m root:test_positivenegative.py:57 Entering Location: InvalidCity
+[32mINFO    [0m root:test_positivenegative.py:63 Clicking Submit Button
+[32mINFO    [0m root:test_positivenegative.py:69 Current URL: https://www.apollo247.com/specialties
+[32mINFO    [0m root:test_positivenegative.py:87 Executing NEGATIVE validation
+[32mINFO    [0m root:test_positivenegative.py:111 ========== TEST CASE COMPLETED ==========
+[32mINFO    [0m root:conftest.py:36 Closing Browser
+[32mINFO    [0m root:conftest.py:40 Browser Closed Successfully

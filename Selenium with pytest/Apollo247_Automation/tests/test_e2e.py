@@ -170,7 +170,7 @@ def test_find_and_schedule_appointment(
     with allure.step("Click Submit Button"):
         finddoctor.click_submit()
 
-        time.sleep(5)
+        # time.sleep(5)
 
         current_url = driver.current_url.lower()
         page_source = driver.page_source.lower()

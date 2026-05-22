@@ -1,0 +1,36 @@
+Selected Date: 25
+Entered Location: Chennai
+Final Location Value: Chennai
+Available Date: Fri
+22
+May
+Available Date: Sat
+23
+May
+Available Date: Sun
+24
+May
+Available Date: Mon
+25
+May
+Available Date: Tue
+26
+May
+Available Date: Wed
+27
+May
+Available Date: Thu
+28
+May
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Available Date: 
+Required date not found → selected first available date
+Clicked: Go to next available date
+No slots available even after fallback
+Appointment Booking Page Opened Successfully
