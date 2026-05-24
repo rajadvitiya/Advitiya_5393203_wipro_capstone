@@ -1,0 +1,3 @@
+speciality,date,location,consultation_mode,schedule_date,schedule_time
+Cardiology,25,Chennai,Hospital Visit,19,08:00 AM
+Cardiology,30,Delhi,Online Consult,20,12:00 PM
